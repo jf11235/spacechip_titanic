@@ -91,26 +91,26 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0098_01,Earth,TRAPPIST-1e,False
 0098_02,Earth,TRAPPIST-1e,False
 0099_01,Earth,PSO J318.5-22,False
-0099_02,Earth,TRAPPIST-1e,True
+0099_02,Earth,TRAPPIST-1e,
 0101_01,Mars,TRAPPIST-1e,True
 0102_01,Earth,TRAPPIST-1e,False
 0103_01,Earth,TRAPPIST-1e,False
 0103_02,Earth,55 Cancri e,True
 0103_03,Earth,TRAPPIST-1e,True
-0105_01,Earth,TRAPPIST-1e,True
+0105_01,Earth,TRAPPIST-1e,
 0107_01,Mars,TRAPPIST-1e,False
 0108_01,Earth,TRAPPIST-1e,True
 0108_02,Earth,TRAPPIST-1e,False
 0108_03,Earth,TRAPPIST-1e,False
 0110_01,Europa,TRAPPIST-1e,False
-0110_02,Europa,TRAPPIST-1e,True
+0110_02,Europa,TRAPPIST-1e,
 0110_03,Europa,TRAPPIST-1e,False
 0110_04,Europa,TRAPPIST-1e,True
 0111_01,Europa,TRAPPIST-1e,True
 0112_01,Europa,55 Cancri e,False
 0113_01,Earth,TRAPPIST-1e,False
 0114_01,Earth,TRAPPIST-1e,False
-0115_01,Mars,TRAPPIST-1e,True
+0115_01,Mars,TRAPPIST-1e,
 0116_01,Europa,TRAPPIST-1e,False
 0119_01,,TRAPPIST-1e,False
 0119_02,Europa,TRAPPIST-1e,True
@@ -151,7 +151,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0170_01,Earth,TRAPPIST-1e,False
 0171_01,Earth,PSO J318.5-22,True
 0172_01,Earth,TRAPPIST-1e,True
-0173_01,Earth,TRAPPIST-1e,True
+0173_01,Earth,TRAPPIST-1e,
 0174_01,Earth,55 Cancri e,False
 0177_01,Europa,TRAPPIST-1e,False
 0178_01,Mars,TRAPPIST-1e,False
@@ -174,7 +174,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0195_01,Mars,TRAPPIST-1e,False
 0196_01,Mars,PSO J318.5-22,False
 0197_01,Europa,TRAPPIST-1e,False
-0198_01,Earth,PSO J318.5-22,True
+0198_01,Earth,PSO J318.5-22,
 0199_01,Earth,TRAPPIST-1e,True
 0200_01,Earth,TRAPPIST-1e,True
 0201_01,Europa,TRAPPIST-1e,True
@@ -223,7 +223,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0237_01,Europa,TRAPPIST-1e,True
 0239_01,Mars,TRAPPIST-1e,False
 0240_01,Mars,TRAPPIST-1e,True
-0241_01,Europa,55 Cancri e,True
+0241_01,Europa,55 Cancri e,
 0242_01,,TRAPPIST-1e,False
 0243_01,Earth,TRAPPIST-1e,True
 0244_01,Mars,TRAPPIST-1e,True
@@ -265,7 +265,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0289_01,Europa,55 Cancri e,True
 0290_01,Europa,55 Cancri e,False
 0290_02,Europa,TRAPPIST-1e,True
-0290_03,Europa,TRAPPIST-1e,True
+0290_03,Europa,TRAPPIST-1e,
 0290_04,Europa,55 Cancri e,False
 0291_01,Europa,TRAPPIST-1e,False
 0294_01,Europa,TRAPPIST-1e,True
@@ -313,7 +313,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0346_01,Earth,55 Cancri e,True
 0347_01,Mars,TRAPPIST-1e,False
 0348_01,Mars,TRAPPIST-1e,False
-0348_02,Mars,TRAPPIST-1e,True
+0348_02,Mars,TRAPPIST-1e,
 0350_01,Earth,PSO J318.5-22,True
 0352_01,Mars,TRAPPIST-1e,False
 0355_01,Earth,TRAPPIST-1e,True
@@ -391,7 +391,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0430_01,Earth,TRAPPIST-1e,False
 0431_01,Mars,TRAPPIST-1e,True
 0432_01,Mars,TRAPPIST-1e,False
-0433_01,Europa,55 Cancri e,True
+0433_01,Europa,55 Cancri e,
 0433_02,Europa,TRAPPIST-1e,False
 0434_01,Mars,TRAPPIST-1e,True
 0435_01,Earth,TRAPPIST-1e,True
@@ -416,7 +416,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0453_01,Europa,TRAPPIST-1e,True
 0453_02,Europa,55 Cancri e,True
 0453_03,Europa,TRAPPIST-1e,True
-0454_01,Europa,55 Cancri e,True
+0454_01,Europa,55 Cancri e,
 0454_02,Europa,TRAPPIST-1e,True
 0454_03,Europa,TRAPPIST-1e,True
 0456_01,Earth,TRAPPIST-1e,False
@@ -452,7 +452,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0482_01,Earth,TRAPPIST-1e,False
 0482_02,Earth,TRAPPIST-1e,False
 0485_01,Europa,55 Cancri e,False
-0487_01,Europa,TRAPPIST-1e,True
+0487_01,Europa,TRAPPIST-1e,
 0488_01,Earth,PSO J318.5-22,True
 0490_01,Earth,TRAPPIST-1e,True
 0498_01,Europa,55 Cancri e,True
@@ -532,7 +532,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0565_01,Mars,TRAPPIST-1e,False
 0566_01,Mars,TRAPPIST-1e,True
 0567_01,Earth,TRAPPIST-1e,True
-0568_01,Europa,TRAPPIST-1e,True
+0568_01,Europa,TRAPPIST-1e,
 0568_02,Europa,55 Cancri e,True
 0569_01,Earth,TRAPPIST-1e,False
 0570_01,Europa,TRAPPIST-1e,False
@@ -625,7 +625,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0647_02,Mars,TRAPPIST-1e,True
 0647_03,Mars,TRAPPIST-1e,False
 0650_01,Earth,PSO J318.5-22,True
-0653_01,Mars,TRAPPIST-1e,True
+0653_01,Mars,TRAPPIST-1e,
 0655_01,Mars,TRAPPIST-1e,False
 0656_01,Earth,TRAPPIST-1e,False
 0657_01,Earth,TRAPPIST-1e,False
@@ -680,8 +680,8 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0709_02,Europa,55 Cancri e,True
 0709_03,Europa,55 Cancri e,True
 0710_01,Mars,TRAPPIST-1e,False
-0712_01,Mars,TRAPPIST-1e,True
-0712_02,Mars,TRAPPIST-1e,True
+0712_01,Mars,TRAPPIST-1e,
+0712_02,Mars,TRAPPIST-1e,
 0713_01,Earth,TRAPPIST-1e,False
 0714_01,Earth,PSO J318.5-22,True
 0714_02,Earth,TRAPPIST-1e,False
@@ -690,7 +690,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0714_05,Earth,PSO J318.5-22,True
 0714_06,Earth,55 Cancri e,True
 0714_07,Earth,55 Cancri e,True
-0715_01,Europa,55 Cancri e,True
+0715_01,Europa,55 Cancri e,
 0718_01,Earth,TRAPPIST-1e,False
 0719_01,Mars,TRAPPIST-1e,False
 0724_01,Earth,PSO J318.5-22,False
@@ -703,7 +703,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0734_01,Earth,TRAPPIST-1e,False
 0736_01,Earth,TRAPPIST-1e,False
 0737_01,Europa,55 Cancri e,False
-0738_01,Mars,TRAPPIST-1e,True
+0738_01,Mars,TRAPPIST-1e,
 0740_01,Europa,55 Cancri e,False
 0740_02,Europa,55 Cancri e,True
 0740_03,Europa,TRAPPIST-1e,False
@@ -720,7 +720,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0757_01,Mars,55 Cancri e,False
 0761_01,Europa,,False
 0762_01,Earth,PSO J318.5-22,True
-0764_01,Earth,TRAPPIST-1e,True
+0764_01,Earth,TRAPPIST-1e,
 0765_01,Mars,PSO J318.5-22,False
 0765_02,Mars,TRAPPIST-1e,False
 0767_01,Earth,TRAPPIST-1e,False
@@ -729,7 +729,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0769_01,Europa,55 Cancri e,True
 0770_01,Earth,TRAPPIST-1e,True
 0770_02,Earth,TRAPPIST-1e,False
-0770_03,Earth,TRAPPIST-1e,True
+0770_03,Earth,TRAPPIST-1e,
 0770_04,Earth,PSO J318.5-22,True
 0770_05,Earth,55 Cancri e,False
 0770_06,Earth,PSO J318.5-22,True
@@ -755,7 +755,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0790_01,Earth,PSO J318.5-22,True
 0791_01,Earth,PSO J318.5-22,True
 0793_01,Earth,PSO J318.5-22,False
-0794_01,Mars,55 Cancri e,True
+0794_01,Mars,55 Cancri e,
 0794_02,Mars,55 Cancri e,True
 0795_01,Earth,TRAPPIST-1e,False
 0796_01,Europa,55 Cancri e,True
@@ -797,7 +797,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0835_01,Earth,55 Cancri e,False
 0836_01,Mars,PSO J318.5-22,False
 0839_01,Europa,TRAPPIST-1e,False
-0840_01,Earth,TRAPPIST-1e,True
+0840_01,Earth,TRAPPIST-1e,
 0845_01,Europa,55 Cancri e,False
 0846_01,Earth,TRAPPIST-1e,True
 0848_01,Mars,TRAPPIST-1e,True
@@ -1007,7 +1007,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1075_01,Europa,TRAPPIST-1e,True
 1075_02,Europa,TRAPPIST-1e,True
 1076_01,Earth,TRAPPIST-1e,True
-1077_01,Earth,TRAPPIST-1e,True
+1077_01,Earth,TRAPPIST-1e,
 1078_01,Earth,55 Cancri e,False
 1079_01,Earth,55 Cancri e,False
 1080_01,Mars,TRAPPIST-1e,False
@@ -1016,7 +1016,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1083_02,Mars,TRAPPIST-1e,True
 1083_03,Mars,TRAPPIST-1e,False
 1084_01,Earth,TRAPPIST-1e,False
-1085_01,Earth,TRAPPIST-1e,True
+1085_01,Earth,TRAPPIST-1e,
 1086_01,Earth,TRAPPIST-1e,True
 1086_02,Earth,TRAPPIST-1e,False
 1086_03,Earth,TRAPPIST-1e,True
@@ -1036,7 +1036,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1100_02,Mars,TRAPPIST-1e,False
 1100_03,Mars,TRAPPIST-1e,False
 1100_04,Mars,TRAPPIST-1e,False
-1102_01,Mars,PSO J318.5-22,True
+1102_01,Mars,PSO J318.5-22,
 1105_01,Earth,TRAPPIST-1e,False
 1108_01,Mars,TRAPPIST-1e,False
 1108_02,Mars,TRAPPIST-1e,True
@@ -1048,7 +1048,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1114_02,Mars,TRAPPIST-1e,False
 1115_01,Earth,TRAPPIST-1e,True
 1116_01,Earth,TRAPPIST-1e,False
-1116_02,Earth,TRAPPIST-1e,True
+1116_02,Earth,TRAPPIST-1e,
 1116_03,Earth,TRAPPIST-1e,True
 1117_01,Earth,TRAPPIST-1e,False
 1121_01,Earth,PSO J318.5-22,False
@@ -1104,7 +1104,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1166_01,Europa,55 Cancri e,False
 1167_01,Mars,TRAPPIST-1e,True
 1168_01,Earth,TRAPPIST-1e,False
-1169_01,Mars,TRAPPIST-1e,True
+1169_01,Mars,TRAPPIST-1e,
 1170_01,Earth,TRAPPIST-1e,False
 1173_01,Earth,PSO J318.5-22,False
 1174_01,Earth,TRAPPIST-1e,True
@@ -1218,7 +1218,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1294_01,Europa,TRAPPIST-1e,True
 1294_02,Europa,PSO J318.5-22,True
 1294_03,Europa,TRAPPIST-1e,False
-1295_01,Earth,TRAPPIST-1e,True
+1295_01,Earth,TRAPPIST-1e,
 1299_01,Earth,TRAPPIST-1e,False
 1300_01,Earth,55 Cancri e,False
 1302_01,Mars,55 Cancri e,False
@@ -1262,7 +1262,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1333_01,Earth,PSO J318.5-22,False
 1335_01,Earth,TRAPPIST-1e,True
 1336_01,Earth,TRAPPIST-1e,True
-1337_01,Earth,55 Cancri e,True
+1337_01,Earth,55 Cancri e,
 1340_01,Earth,TRAPPIST-1e,True
 1342_01,Earth,TRAPPIST-1e,False
 1345_01,Earth,TRAPPIST-1e,False
@@ -1289,7 +1289,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1366_01,Earth,55 Cancri e,True
 1368_01,Earth,TRAPPIST-1e,True
 1370_01,Earth,TRAPPIST-1e,False
-1371_01,Mars,TRAPPIST-1e,True
+1371_01,Mars,TRAPPIST-1e,
 1375_01,Earth,TRAPPIST-1e,False
 1375_02,Earth,TRAPPIST-1e,False
 1376_01,Earth,TRAPPIST-1e,True
@@ -1321,7 +1321,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1398_01,Earth,TRAPPIST-1e,False
 1399_01,Earth,TRAPPIST-1e,False
 1400_01,Earth,55 Cancri e,True
-1401_01,Earth,TRAPPIST-1e,True
+1401_01,Earth,TRAPPIST-1e,
 1402_01,Earth,PSO J318.5-22,True
 1402_02,Earth,55 Cancri e,True
 1403_01,Earth,TRAPPIST-1e,False
@@ -1382,7 +1382,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1452_03,Europa,55 Cancri e,False
 1452_04,Europa,TRAPPIST-1e,False
 1452_05,Europa,55 Cancri e,True
-1453_01,Earth,55 Cancri e,True
+1453_01,Earth,55 Cancri e,
 1453_02,Earth,TRAPPIST-1e,False
 1454_01,Europa,TRAPPIST-1e,False
 1455_01,Europa,55 Cancri e,True
@@ -1404,7 +1404,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1478_02,Earth,PSO J318.5-22,False
 1479_01,Mars,TRAPPIST-1e,True
 1481_01,Mars,TRAPPIST-1e,False
-1484_01,Earth,TRAPPIST-1e,True
+1484_01,Earth,TRAPPIST-1e,
 1485_01,Mars,TRAPPIST-1e,True
 1488_01,Mars,TRAPPIST-1e,True
 1489_01,Earth,TRAPPIST-1e,False
@@ -1418,7 +1418,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1500_01,Earth,TRAPPIST-1e,False
 1500_02,Earth,TRAPPIST-1e,False
 1500_03,Earth,55 Cancri e,False
-1500_04,Earth,55 Cancri e,True
+1500_04,Earth,55 Cancri e,
 1500_05,Earth,55 Cancri e,False
 1500_06,Earth,TRAPPIST-1e,True
 1500_07,Earth,TRAPPIST-1e,True
@@ -1453,7 +1453,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1532_01,Europa,TRAPPIST-1e,False
 1533_01,Earth,TRAPPIST-1e,False
 1536_01,Mars,TRAPPIST-1e,True
-1539_01,Europa,55 Cancri e,True
+1539_01,Europa,55 Cancri e,
 1540_01,Europa,TRAPPIST-1e,False
 1540_02,Europa,TRAPPIST-1e,False
 1540_03,Europa,TRAPPIST-1e,False
@@ -1530,7 +1530,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1622_01,Mars,TRAPPIST-1e,True
 1624_01,Earth,PSO J318.5-22,True
 1624_02,Earth,55 Cancri e,False
-1624_03,Earth,TRAPPIST-1e,True
+1624_03,Earth,TRAPPIST-1e,
 1625_01,Europa,55 Cancri e,True
 1625_02,Europa,TRAPPIST-1e,False
 1626_01,Earth,TRAPPIST-1e,False
@@ -1564,7 +1564,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1657_01,Earth,TRAPPIST-1e,False
 1658_01,Mars,TRAPPIST-1e,False
 1659_01,Earth,TRAPPIST-1e,False
-1660_01,Earth,TRAPPIST-1e,True
+1660_01,Earth,TRAPPIST-1e,
 1661_01,Europa,TRAPPIST-1e,False
 1661_02,Europa,TRAPPIST-1e,False
 1661_03,Europa,TRAPPIST-1e,True
@@ -1615,8 +1615,8 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1709_06,Mars,TRAPPIST-1e,False
 1709_07,Mars,TRAPPIST-1e,False
 1710_01,Earth,PSO J318.5-22,True
-1711_01,Earth,TRAPPIST-1e,True
-1712_01,Mars,TRAPPIST-1e,True
+1711_01,Earth,TRAPPIST-1e,
+1712_01,Mars,TRAPPIST-1e,
 1712_02,Mars,TRAPPIST-1e,False
 1713_01,Earth,TRAPPIST-1e,False
 1714_01,Earth,TRAPPIST-1e,False
@@ -1755,7 +1755,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1865_02,Earth,TRAPPIST-1e,False
 1865_03,Earth,TRAPPIST-1e,False
 1865_04,Earth,TRAPPIST-1e,False
-1865_05,Earth,TRAPPIST-1e,True
+1865_05,Earth,TRAPPIST-1e,
 1865_06,,TRAPPIST-1e,False
 1866_01,Earth,TRAPPIST-1e,False
 1868_01,Mars,TRAPPIST-1e,True
@@ -1763,13 +1763,13 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1872_01,Mars,TRAPPIST-1e,True
 1873_01,Earth,TRAPPIST-1e,True
 1874_01,Earth,TRAPPIST-1e,True
-1874_02,Earth,PSO J318.5-22,True
+1874_02,Earth,PSO J318.5-22,
 1877_01,Earth,TRAPPIST-1e,False
 1878_01,Earth,TRAPPIST-1e,False
 1879_01,Europa,TRAPPIST-1e,False
 1880_01,Earth,55 Cancri e,False
 1881_01,Earth,TRAPPIST-1e,False
-1882_01,Europa,55 Cancri e,True
+1882_01,Europa,55 Cancri e,
 1882_02,Europa,55 Cancri e,True
 1884_01,Mars,TRAPPIST-1e,True
 1886_01,Earth,TRAPPIST-1e,False
@@ -1871,7 +1871,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1994_01,Earth,TRAPPIST-1e,False
 1995_01,Earth,PSO J318.5-22,False
 1996_01,Earth,TRAPPIST-1e,False
-1997_01,Earth,TRAPPIST-1e,True
+1997_01,Earth,TRAPPIST-1e,
 1999_01,Earth,TRAPPIST-1e,False
 2000_01,Europa,55 Cancri e,False
 2001_01,Earth,TRAPPIST-1e,False
@@ -1889,7 +1889,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2013_01,Earth,TRAPPIST-1e,False
 2015_01,Earth,TRAPPIST-1e,False
 2019_01,Europa,55 Cancri e,False
-2019_02,Europa,55 Cancri e,True
+2019_02,Europa,55 Cancri e,
 2022_01,Earth,PSO J318.5-22,False
 2024_01,,TRAPPIST-1e,False
 2024_02,Earth,55 Cancri e,False
@@ -1927,7 +1927,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2059_01,Earth,TRAPPIST-1e,False
 2060_01,,55 Cancri e,False
 2061_01,Europa,TRAPPIST-1e,False
-2062_01,Mars,TRAPPIST-1e,True
+2062_01,Mars,TRAPPIST-1e,
 2063_01,Earth,PSO J318.5-22,True
 2065_01,Earth,TRAPPIST-1e,False
 2066_01,Earth,TRAPPIST-1e,True
@@ -1997,7 +1997,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2133_02,Mars,TRAPPIST-1e,True
 2134_01,Mars,TRAPPIST-1e,False
 2135_01,Earth,TRAPPIST-1e,False
-2135_02,Earth,TRAPPIST-1e,True
+2135_02,Earth,TRAPPIST-1e,
 2136_01,Earth,TRAPPIST-1e,False
 2137_01,Mars,TRAPPIST-1e,True
 2137_02,Mars,55 Cancri e,False
@@ -2043,7 +2043,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2186_01,Earth,TRAPPIST-1e,True
 2187_01,Earth,TRAPPIST-1e,False
 2188_01,Earth,55 Cancri e,False
-2189_01,Earth,TRAPPIST-1e,True
+2189_01,Earth,TRAPPIST-1e,
 2190_01,Earth,,False
 2191_01,Mars,TRAPPIST-1e,True
 2193_01,Earth,PSO J318.5-22,False
@@ -2088,7 +2088,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2234_04,Mars,55 Cancri e,False
 2234_05,Mars,TRAPPIST-1e,False
 2234_06,Mars,55 Cancri e,True
-2234_07,Mars,TRAPPIST-1e,True
+2234_07,Mars,TRAPPIST-1e,
 2235_01,Earth,TRAPPIST-1e,False
 2237_01,Europa,55 Cancri e,False
 2237_02,Europa,TRAPPIST-1e,True
@@ -2128,12 +2128,12 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2279_01,Europa,55 Cancri e,False
 2280_01,Europa,TRAPPIST-1e,False
 2281_01,Earth,TRAPPIST-1e,False
-2282_01,Earth,TRAPPIST-1e,True
+2282_01,Earth,TRAPPIST-1e,
 2284_01,Mars,TRAPPIST-1e,False
 2287_01,Earth,TRAPPIST-1e,False
 2288_01,Earth,TRAPPIST-1e,False
 2289_01,Mars,TRAPPIST-1e,False
-2291_01,Earth,55 Cancri e,True
+2291_01,Earth,55 Cancri e,
 2291_02,Earth,TRAPPIST-1e,False
 2291_03,Earth,55 Cancri e,False
 2295_01,Earth,TRAPPIST-1e,False
@@ -2188,7 +2188,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2340_01,Earth,PSO J318.5-22,False
 2341_01,Earth,TRAPPIST-1e,False
 2345_01,Earth,PSO J318.5-22,True
-2347_01,Earth,55 Cancri e,True
+2347_01,Earth,55 Cancri e,
 2347_02,Earth,TRAPPIST-1e,True
 2347_03,Earth,TRAPPIST-1e,True
 2347_04,Earth,PSO J318.5-22,True
@@ -2225,12 +2225,12 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2384_03,Earth,55 Cancri e,False
 2384_04,Earth,TRAPPIST-1e,False
 2384_05,Earth,TRAPPIST-1e,True
-2384_06,Earth,TRAPPIST-1e,True
+2384_06,Earth,TRAPPIST-1e,
 2384_07,,TRAPPIST-1e,True
 2385_01,Mars,TRAPPIST-1e,False
 2387_01,Earth,TRAPPIST-1e,False
 2389_01,Earth,TRAPPIST-1e,False
-2390_01,Earth,TRAPPIST-1e,True
+2390_01,Earth,TRAPPIST-1e,
 2391_01,Earth,TRAPPIST-1e,False
 2392_01,,TRAPPIST-1e,True
 2395_01,Earth,TRAPPIST-1e,False
@@ -2378,7 +2378,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2555_02,Europa,TRAPPIST-1e,True
 2557_01,Europa,TRAPPIST-1e,True
 2558_01,Mars,TRAPPIST-1e,False
-2558_02,Mars,TRAPPIST-1e,True
+2558_02,Mars,TRAPPIST-1e,
 2558_03,Mars,TRAPPIST-1e,False
 2558_04,Mars,TRAPPIST-1e,True
 2559_01,Europa,TRAPPIST-1e,False
@@ -2401,7 +2401,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2581_01,Earth,TRAPPIST-1e,False
 2581_02,Earth,TRAPPIST-1e,False
 2582_01,Earth,TRAPPIST-1e,False
-2584_01,Earth,PSO J318.5-22,True
+2584_01,Earth,PSO J318.5-22,
 2588_01,Earth,TRAPPIST-1e,False
 2589_01,Europa,TRAPPIST-1e,True
 2589_02,Europa,55 Cancri e,True
@@ -2418,7 +2418,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2593_01,Earth,TRAPPIST-1e,False
 2594_01,Europa,TRAPPIST-1e,True
 2595_01,Mars,55 Cancri e,False
-2595_02,Mars,TRAPPIST-1e,True
+2595_02,Mars,TRAPPIST-1e,
 2595_03,Mars,TRAPPIST-1e,False
 2595_04,Mars,TRAPPIST-1e,False
 2596_01,Mars,TRAPPIST-1e,False
@@ -2439,7 +2439,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2607_03,Europa,55 Cancri e,False
 2607_04,Europa,TRAPPIST-1e,False
 2609_01,Earth,PSO J318.5-22,True
-2616_01,Earth,TRAPPIST-1e,True
+2616_01,Earth,TRAPPIST-1e,
 2617_01,Earth,PSO J318.5-22,False
 2618_01,,TRAPPIST-1e,True
 2619_01,Earth,55 Cancri e,False
@@ -2559,7 +2559,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2743_01,Earth,TRAPPIST-1e,False
 2745_01,Mars,,False
 2746_01,Mars,TRAPPIST-1e,False
-2747_01,Mars,TRAPPIST-1e,True
+2747_01,Mars,TRAPPIST-1e,
 2748_01,Earth,55 Cancri e,False
 2750_01,Earth,TRAPPIST-1e,False
 2751_01,Mars,,True
@@ -2572,7 +2572,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2756_01,Mars,55 Cancri e,False
 2758_01,Earth,PSO J318.5-22,True
 2759_01,Earth,TRAPPIST-1e,False
-2760_01,Earth,TRAPPIST-1e,True
+2760_01,Earth,TRAPPIST-1e,
 2760_02,Earth,TRAPPIST-1e,True
 2760_03,Earth,TRAPPIST-1e,True
 2762_01,Earth,TRAPPIST-1e,False
@@ -2638,13 +2638,13 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2820_01,Earth,TRAPPIST-1e,True
 2821_01,Earth,55 Cancri e,True
 2822_01,,55 Cancri e,True
-2822_02,Earth,TRAPPIST-1e,True
+2822_02,Earth,TRAPPIST-1e,
 2822_03,Earth,55 Cancri e,True
 2822_04,Earth,,True
 2822_05,,TRAPPIST-1e,True
 2823_01,Mars,TRAPPIST-1e,True
 2824_01,Europa,55 Cancri e,True
-2825_01,Mars,TRAPPIST-1e,True
+2825_01,Mars,TRAPPIST-1e,
 2826_01,Europa,55 Cancri e,False
 2826_02,Europa,TRAPPIST-1e,False
 2831_01,Europa,TRAPPIST-1e,False
@@ -2764,7 +2764,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2970_01,Earth,TRAPPIST-1e,False
 2971_01,Europa,TRAPPIST-1e,False
 2972_01,Earth,TRAPPIST-1e,False
-2975_01,Earth,PSO J318.5-22,True
+2975_01,Earth,PSO J318.5-22,
 2979_01,Europa,TRAPPIST-1e,False
 2982_01,Europa,55 Cancri e,True
 2983_01,Earth,TRAPPIST-1e,False
@@ -2807,7 +2807,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3026_01,Earth,TRAPPIST-1e,True
 3027_01,Earth,TRAPPIST-1e,True
 3029_01,Europa,55 Cancri e,False
-3029_02,Europa,TRAPPIST-1e,True
+3029_02,Europa,TRAPPIST-1e,
 3030_01,Europa,55 Cancri e,False
 3030_02,Europa,TRAPPIST-1e,True
 3032_01,Earth,TRAPPIST-1e,False
@@ -2832,7 +2832,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3055_01,Earth,TRAPPIST-1e,False
 3060_01,Mars,TRAPPIST-1e,False
 3060_02,Mars,TRAPPIST-1e,False
-3060_03,Mars,TRAPPIST-1e,True
+3060_03,Mars,TRAPPIST-1e,
 3061_01,Earth,TRAPPIST-1e,False
 3061_02,Earth,TRAPPIST-1e,False
 3062_01,Mars,TRAPPIST-1e,False
@@ -2856,8 +2856,8 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3082_01,Earth,PSO J318.5-22,False
 3083_01,Europa,55 Cancri e,False
 3084_01,Mars,55 Cancri e,True
-3085_01,Earth,TRAPPIST-1e,True
-3087_01,Earth,TRAPPIST-1e,True
+3085_01,Earth,TRAPPIST-1e,
+3087_01,Earth,TRAPPIST-1e,
 3088_01,Europa,TRAPPIST-1e,False
 3090_01,Europa,TRAPPIST-1e,False
 3091_01,Europa,TRAPPIST-1e,False
@@ -2919,7 +2919,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3162_02,Earth,TRAPPIST-1e,False
 3162_03,Earth,TRAPPIST-1e,True
 3163_01,Mars,TRAPPIST-1e,False
-3163_02,Mars,55 Cancri e,True
+3163_02,Mars,55 Cancri e,
 3164_01,Earth,TRAPPIST-1e,True
 3166_01,Mars,TRAPPIST-1e,True
 3168_01,Earth,TRAPPIST-1e,False
@@ -2939,7 +2939,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3185_01,Earth,TRAPPIST-1e,False
 3188_01,Mars,55 Cancri e,True
 3189_01,Mars,55 Cancri e,True
-3189_02,Mars,TRAPPIST-1e,True
+3189_02,Mars,TRAPPIST-1e,
 3191_01,Mars,TRAPPIST-1e,True
 3192_01,Earth,TRAPPIST-1e,False
 3193_01,Mars,TRAPPIST-1e,False
@@ -2980,7 +2980,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3220_01,Earth,TRAPPIST-1e,False
 3221_01,Earth,PSO J318.5-22,False
 3223_01,Earth,TRAPPIST-1e,False
-3224_01,Earth,TRAPPIST-1e,True
+3224_01,Earth,TRAPPIST-1e,
 3225_01,Europa,55 Cancri e,True
 3225_02,Europa,TRAPPIST-1e,False
 3227_01,Earth,TRAPPIST-1e,False
@@ -3015,7 +3015,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3270_01,Earth,TRAPPIST-1e,False
 3271_01,Earth,TRAPPIST-1e,True
 3271_02,Earth,55 Cancri e,False
-3272_01,Earth,TRAPPIST-1e,True
+3272_01,Earth,TRAPPIST-1e,
 3272_02,Earth,55 Cancri e,True
 3273_01,Earth,PSO J318.5-22,True
 3274_01,Earth,TRAPPIST-1e,True
@@ -3054,13 +3054,13 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3296_01,Earth,55 Cancri e,False
 3297_01,Earth,TRAPPIST-1e,False
 3298_01,Earth,,False
-3299_01,Earth,TRAPPIST-1e,True
+3299_01,Earth,TRAPPIST-1e,
 3300_01,Mars,,True
 3300_02,Mars,TRAPPIST-1e,False
 3301_01,Earth,55 Cancri e,True
 3301_02,Earth,TRAPPIST-1e,False
 3301_03,Earth,55 Cancri e,False
-3301_04,Earth,TRAPPIST-1e,True
+3301_04,Earth,TRAPPIST-1e,
 3304_01,Europa,TRAPPIST-1e,True
 3305_01,Mars,TRAPPIST-1e,True
 3305_02,Mars,55 Cancri e,False
@@ -3071,7 +3071,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3312_01,Europa,TRAPPIST-1e,False
 3313_01,Europa,55 Cancri e,True
 3314_01,Earth,TRAPPIST-1e,False
-3315_01,Earth,TRAPPIST-1e,True
+3315_01,Earth,TRAPPIST-1e,
 3317_01,Earth,TRAPPIST-1e,False
 3318_01,Europa,TRAPPIST-1e,False
 3318_02,Europa,55 Cancri e,True
@@ -3172,7 +3172,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3419_01,Mars,TRAPPIST-1e,False
 3420_01,Earth,TRAPPIST-1e,True
 3421_01,Earth,PSO J318.5-22,False
-3422_01,Europa,55 Cancri e,True
+3422_01,Europa,55 Cancri e,
 3422_02,Europa,TRAPPIST-1e,True
 3423_01,Earth,TRAPPIST-1e,True
 3424_01,Earth,TRAPPIST-1e,False
@@ -3190,7 +3190,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3438_01,Earth,TRAPPIST-1e,True
 3438_02,Earth,55 Cancri e,False
 3439_01,Europa,TRAPPIST-1e,True
-3439_02,Europa,TRAPPIST-1e,True
+3439_02,Europa,TRAPPIST-1e,
 3439_03,,55 Cancri e,True
 3439_04,Europa,TRAPPIST-1e,False
 3440_01,Earth,TRAPPIST-1e,False
@@ -3231,7 +3231,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3475_01,Europa,TRAPPIST-1e,True
 3475_02,Europa,TRAPPIST-1e,False
 3475_03,Europa,55 Cancri e,False
-3476_01,Earth,55 Cancri e,True
+3476_01,Earth,55 Cancri e,
 3476_02,Earth,55 Cancri e,False
 3476_03,Earth,55 Cancri e,False
 3476_04,Earth,TRAPPIST-1e,False
@@ -3247,7 +3247,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3487_01,Europa,55 Cancri e,False
 3488_01,Europa,TRAPPIST-1e,False
 3488_02,Europa,TRAPPIST-1e,False
-3489_01,Mars,TRAPPIST-1e,True
+3489_01,Mars,TRAPPIST-1e,
 3489_02,Mars,TRAPPIST-1e,True
 3490_01,Europa,TRAPPIST-1e,False
 3490_02,Europa,55 Cancri e,False
@@ -3346,16 +3346,16 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3597_01,Earth,TRAPPIST-1e,False
 3598_01,Earth,55 Cancri e,False
 3600_01,Earth,TRAPPIST-1e,True
-3602_01,Mars,TRAPPIST-1e,True
+3602_01,Mars,TRAPPIST-1e,
 3605_01,Earth,55 Cancri e,True
 3606_01,Earth,TRAPPIST-1e,True
 3607_01,Mars,,True
 3608_01,Europa,55 Cancri e,True
 3608_02,Europa,TRAPPIST-1e,True
-3608_03,Europa,TRAPPIST-1e,True
+3608_03,Europa,TRAPPIST-1e,
 3609_01,Europa,55 Cancri e,False
 3609_02,Europa,TRAPPIST-1e,False
-3609_03,Europa,55 Cancri e,True
+3609_03,Europa,55 Cancri e,
 3609_04,Europa,55 Cancri e,True
 3610_01,Earth,,True
 3610_02,Earth,TRAPPIST-1e,False
@@ -3450,7 +3450,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3713_01,Europa,TRAPPIST-1e,True
 3713_02,Europa,55 Cancri e,True
 3713_03,Europa,TRAPPIST-1e,True
-3714_01,Mars,TRAPPIST-1e,True
+3714_01,Mars,TRAPPIST-1e,
 3714_02,Mars,PSO J318.5-22,False
 3715_01,Earth,PSO J318.5-22,True
 3715_02,Earth,TRAPPIST-1e,True
@@ -3483,7 +3483,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3745_01,Earth,TRAPPIST-1e,False
 3747_01,Europa,TRAPPIST-1e,False
 3747_02,Europa,TRAPPIST-1e,True
-3747_03,Europa,TRAPPIST-1e,True
+3747_03,Europa,TRAPPIST-1e,
 3747_04,Europa,55 Cancri e,True
 3748_01,Mars,TRAPPIST-1e,True
 3749_01,Europa,55 Cancri e,True
@@ -3621,7 +3621,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3895_01,Mars,TRAPPIST-1e,True
 3895_02,Mars,TRAPPIST-1e,False
 3895_03,Mars,TRAPPIST-1e,False
-3896_01,,55 Cancri e,True
+3896_01,,55 Cancri e,
 3897_01,Earth,TRAPPIST-1e,True
 3898_01,Earth,TRAPPIST-1e,True
 3899_01,Europa,TRAPPIST-1e,True
@@ -3686,9 +3686,9 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3959_03,Earth,55 Cancri e,True
 3960_01,Earth,TRAPPIST-1e,False
 3961_01,Mars,TRAPPIST-1e,True
-3962_01,Earth,55 Cancri e,True
+3962_01,Earth,55 Cancri e,
 3962_02,Earth,PSO J318.5-22,False
-3963_01,Earth,PSO J318.5-22,True
+3963_01,Earth,PSO J318.5-22,
 3964_01,Earth,TRAPPIST-1e,True
 3966_01,Earth,TRAPPIST-1e,False
 3966_02,Earth,TRAPPIST-1e,False
@@ -3746,7 +3746,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4006_01,Earth,55 Cancri e,True
 4006_02,Earth,TRAPPIST-1e,True
 4006_03,Earth,PSO J318.5-22,False
-4006_04,Earth,TRAPPIST-1e,True
+4006_04,Earth,TRAPPIST-1e,
 4006_05,Earth,55 Cancri e,False
 4008_01,Mars,TRAPPIST-1e,True
 4009_01,Earth,55 Cancri e,False
@@ -3775,7 +3775,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4030_05,Earth,TRAPPIST-1e,False
 4031_01,Europa,55 Cancri e,True
 4031_02,Europa,TRAPPIST-1e,True
-4032_01,Earth,PSO J318.5-22,True
+4032_01,Earth,PSO J318.5-22,
 4033_01,Europa,55 Cancri e,False
 4034_01,Mars,TRAPPIST-1e,True
 4035_01,Earth,55 Cancri e,True
@@ -3806,7 +3806,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4063_01,Earth,TRAPPIST-1e,True
 4064_01,Earth,TRAPPIST-1e,False
 4065_01,Earth,TRAPPIST-1e,False
-4066_01,Europa,55 Cancri e,True
+4066_01,Europa,55 Cancri e,
 4066_02,Europa,TRAPPIST-1e,True
 4068_01,Europa,TRAPPIST-1e,False
 4069_01,Earth,55 Cancri e,False
@@ -3838,7 +3838,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4106_01,Earth,TRAPPIST-1e,False
 4107_01,Earth,TRAPPIST-1e,False
 4108_01,Europa,55 Cancri e,True
-4108_02,Europa,TRAPPIST-1e,True
+4108_02,Europa,TRAPPIST-1e,
 4109_01,Earth,TRAPPIST-1e,False
 4110_01,Earth,TRAPPIST-1e,False
 4112_01,Earth,TRAPPIST-1e,True
@@ -3849,7 +3849,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4116_01,Earth,TRAPPIST-1e,False
 4120_01,Earth,PSO J318.5-22,True
 4125_01,Earth,PSO J318.5-22,True
-4127_01,Europa,TRAPPIST-1e,True
+4127_01,Europa,TRAPPIST-1e,
 4128_01,Mars,TRAPPIST-1e,False
 4128_02,Mars,TRAPPIST-1e,False
 4128_03,Mars,TRAPPIST-1e,True
@@ -3971,7 +3971,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4237_01,Earth,TRAPPIST-1e,False
 4238_01,Europa,55 Cancri e,True
 4239_01,Earth,TRAPPIST-1e,False
-4240_01,Europa,TRAPPIST-1e,True
+4240_01,Europa,TRAPPIST-1e,
 4242_01,Mars,TRAPPIST-1e,True
 4243_01,Mars,TRAPPIST-1e,False
 4244_01,Earth,TRAPPIST-1e,False
@@ -3997,7 +3997,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4256_08,Earth,55 Cancri e,False
 4257_01,Earth,TRAPPIST-1e,False
 4258_01,Europa,TRAPPIST-1e,False
-4258_02,Europa,TRAPPIST-1e,True
+4258_02,Europa,TRAPPIST-1e,
 4258_03,Europa,TRAPPIST-1e,False
 4259_01,Mars,TRAPPIST-1e,True
 4260_01,Earth,TRAPPIST-1e,True
@@ -4038,7 +4038,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4311_01,Earth,TRAPPIST-1e,False
 4312_01,Europa,TRAPPIST-1e,False
 4315_01,Earth,TRAPPIST-1e,False
-4315_02,Earth,TRAPPIST-1e,True
+4315_02,Earth,TRAPPIST-1e,
 4316_01,Earth,PSO J318.5-22,False
 4317_01,Mars,TRAPPIST-1e,False
 4318_01,Mars,TRAPPIST-1e,True
@@ -4089,12 +4089,12 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4362_01,Europa,TRAPPIST-1e,False
 4364_01,Earth,PSO J318.5-22,True
 4365_01,,TRAPPIST-1e,False
-4366_01,Earth,PSO J318.5-22,True
+4366_01,Earth,PSO J318.5-22,
 4367_01,Earth,55 Cancri e,True
 4368_01,Mars,55 Cancri e,True
 4369_01,Earth,TRAPPIST-1e,False
 4370_01,Earth,TRAPPIST-1e,False
-4371_01,Europa,TRAPPIST-1e,True
+4371_01,Europa,TRAPPIST-1e,
 4371_02,Europa,55 Cancri e,False
 4371_03,,TRAPPIST-1e,True
 4371_04,Europa,TRAPPIST-1e,False
@@ -4123,12 +4123,12 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4400_01,Mars,TRAPPIST-1e,False
 4400_02,Mars,55 Cancri e,False
 4400_03,Mars,,True
-4401_01,Earth,55 Cancri e,True
+4401_01,Earth,55 Cancri e,
 4401_02,Earth,PSO J318.5-22,True
 4402_01,Earth,PSO J318.5-22,True
 4403_01,Earth,TRAPPIST-1e,False
 4403_02,Earth,,False
-4404_01,Earth,TRAPPIST-1e,True
+4404_01,Earth,TRAPPIST-1e,
 4405_01,Europa,TRAPPIST-1e,True
 4407_01,Earth,TRAPPIST-1e,True
 4408_01,Mars,TRAPPIST-1e,True
@@ -4163,7 +4163,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4446_02,Europa,TRAPPIST-1e,False
 4446_03,Europa,55 Cancri e,True
 4446_04,Europa,55 Cancri e,False
-4446_05,Europa,TRAPPIST-1e,True
+4446_05,Europa,TRAPPIST-1e,
 4447_01,Earth,TRAPPIST-1e,True
 4448_01,Earth,TRAPPIST-1e,False
 4449_01,Mars,TRAPPIST-1e,False
@@ -4269,7 +4269,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4542_02,Europa,55 Cancri e,True
 4543_01,Mars,PSO J318.5-22,False
 4544_01,Earth,TRAPPIST-1e,True
-4546_01,Earth,PSO J318.5-22,True
+4546_01,Earth,PSO J318.5-22,
 4547_01,Earth,TRAPPIST-1e,False
 4549_01,Earth,TRAPPIST-1e,False
 4550_01,Earth,TRAPPIST-1e,False
@@ -4288,15 +4288,15 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4567_01,Earth,TRAPPIST-1e,False
 4568_01,Mars,TRAPPIST-1e,False
 4569_01,Europa,55 Cancri e,True
-4569_02,Europa,55 Cancri e,True
+4569_02,Europa,55 Cancri e,
 4570_01,Europa,TRAPPIST-1e,True
 4571_01,Earth,TRAPPIST-1e,True
 4572_01,Earth,55 Cancri e,False
 4573_01,Earth,TRAPPIST-1e,False
 4574_01,Mars,TRAPPIST-1e,False
-4575_01,Earth,TRAPPIST-1e,True
+4575_01,Earth,TRAPPIST-1e,
 4576_01,Earth,TRAPPIST-1e,False
-4577_01,Mars,TRAPPIST-1e,True
+4577_01,Mars,TRAPPIST-1e,
 4580_01,Mars,TRAPPIST-1e,True
 4581_01,Europa,TRAPPIST-1e,False
 4581_02,Europa,55 Cancri e,False
@@ -4317,12 +4317,12 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4596_01,,TRAPPIST-1e,True
 4597_01,Earth,TRAPPIST-1e,True
 4602_01,Earth,55 Cancri e,False
-4603_01,Europa,55 Cancri e,True
+4603_01,Europa,55 Cancri e,
 4603_02,Europa,TRAPPIST-1e,False
 4604_01,Earth,TRAPPIST-1e,False
 4605_01,Earth,TRAPPIST-1e,False
 4606_01,Europa,TRAPPIST-1e,False
-4606_02,Europa,55 Cancri e,True
+4606_02,Europa,55 Cancri e,
 4607_01,Earth,PSO J318.5-22,False
 4608_01,Earth,55 Cancri e,False
 4609_01,Europa,TRAPPIST-1e,False
@@ -4409,7 +4409,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4679_01,Europa,TRAPPIST-1e,False
 4680_01,Mars,TRAPPIST-1e,False
 4680_02,Mars,TRAPPIST-1e,True
-4680_03,Mars,TRAPPIST-1e,True
+4680_03,Mars,TRAPPIST-1e,
 4680_04,Mars,TRAPPIST-1e,False
 4684_01,Mars,TRAPPIST-1e,False
 4686_01,Earth,TRAPPIST-1e,False
@@ -4460,7 +4460,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4739_01,Earth,TRAPPIST-1e,False
 4741_01,Mars,TRAPPIST-1e,True
 4741_02,Mars,55 Cancri e,False
-4741_03,Mars,TRAPPIST-1e,True
+4741_03,Mars,TRAPPIST-1e,
 4743_01,Europa,TRAPPIST-1e,False
 4744_01,Europa,TRAPPIST-1e,False
 4744_02,Europa,55 Cancri e,True
@@ -4564,7 +4564,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4856_01,Earth,TRAPPIST-1e,False
 4857_01,Earth,55 Cancri e,False
 4862_01,Earth,TRAPPIST-1e,False
-4863_01,Europa,TRAPPIST-1e,True
+4863_01,Europa,TRAPPIST-1e,
 4864_01,Earth,55 Cancri e,False
 4866_01,Earth,TRAPPIST-1e,False
 4868_01,Earth,TRAPPIST-1e,False
@@ -4628,7 +4628,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4929_01,Mars,55 Cancri e,True
 4930_01,Europa,,True
 4930_02,Europa,TRAPPIST-1e,False
-4932_01,Mars,TRAPPIST-1e,True
+4932_01,Mars,TRAPPIST-1e,
 4932_02,Mars,55 Cancri e,True
 4933_01,Mars,TRAPPIST-1e,False
 4933_02,,TRAPPIST-1e,False
@@ -4657,7 +4657,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4961_01,Mars,TRAPPIST-1e,False
 4963_01,Earth,TRAPPIST-1e,True
 4964_01,Mars,TRAPPIST-1e,False
-4965_01,Earth,TRAPPIST-1e,True
+4965_01,Earth,TRAPPIST-1e,
 4970_01,Earth,PSO J318.5-22,False
 4972_01,Europa,55 Cancri e,False
 4973_01,Earth,TRAPPIST-1e,False
@@ -4674,8 +4674,8 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4980_01,Earth,TRAPPIST-1e,False
 4980_02,Earth,,False
 4980_03,Earth,TRAPPIST-1e,False
-4981_01,Earth,TRAPPIST-1e,True
-4981_02,Earth,PSO J318.5-22,True
+4981_01,Earth,TRAPPIST-1e,
+4981_02,Earth,PSO J318.5-22,
 4981_03,Earth,TRAPPIST-1e,False
 4983_01,Earth,TRAPPIST-1e,False
 4987_01,Earth,TRAPPIST-1e,False
@@ -4750,7 +4750,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5065_01,Europa,55 Cancri e,True
 5065_02,Europa,55 Cancri e,False
 5067_01,Earth,55 Cancri e,False
-5068_01,Earth,TRAPPIST-1e,True
+5068_01,Earth,TRAPPIST-1e,
 5069_01,Earth,PSO J318.5-22,False
 5070_01,Earth,,False
 5072_01,Earth,TRAPPIST-1e,False
@@ -4767,7 +4767,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5088_01,Earth,55 Cancri e,False
 5089_01,Europa,TRAPPIST-1e,False
 5089_02,Europa,TRAPPIST-1e,False
-5090_01,Earth,TRAPPIST-1e,True
+5090_01,Earth,TRAPPIST-1e,
 5090_02,Earth,TRAPPIST-1e,True
 5090_03,,PSO J318.5-22,False
 5090_04,Earth,TRAPPIST-1e,True
@@ -4833,7 +4833,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5154_01,Mars,TRAPPIST-1e,False
 5156_01,Europa,55 Cancri e,True
 5156_02,Europa,TRAPPIST-1e,False
-5157_01,Earth,TRAPPIST-1e,True
+5157_01,Earth,TRAPPIST-1e,
 5158_01,Earth,TRAPPIST-1e,False
 5160_01,Earth,TRAPPIST-1e,False
 5161_01,Mars,55 Cancri e,True
@@ -4854,7 +4854,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5177_01,Europa,TRAPPIST-1e,False
 5179_01,Europa,55 Cancri e,True
 5180_01,Earth,PSO J318.5-22,True
-5181_01,Europa,TRAPPIST-1e,True
+5181_01,Europa,TRAPPIST-1e,
 5182_01,Earth,TRAPPIST-1e,True
 5182_02,Earth,TRAPPIST-1e,False
 5184_01,Earth,TRAPPIST-1e,False
@@ -4874,12 +4874,12 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5197_01,Earth,,False
 5198_01,Mars,TRAPPIST-1e,False
 5199_01,Europa,TRAPPIST-1e,False
-5201_01,Earth,TRAPPIST-1e,True
+5201_01,Earth,TRAPPIST-1e,
 5202_01,Earth,TRAPPIST-1e,True
 5204_01,Earth,PSO J318.5-22,False
 5205_01,Earth,TRAPPIST-1e,False
 5205_02,Earth,TRAPPIST-1e,False
-5205_03,Earth,TRAPPIST-1e,True
+5205_03,Earth,TRAPPIST-1e,
 5206_01,Earth,55 Cancri e,True
 5206_02,Earth,PSO J318.5-22,False
 5206_03,Earth,PSO J318.5-22,False
@@ -5007,7 +5007,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5347_01,Europa,TRAPPIST-1e,False
 5348_01,Mars,TRAPPIST-1e,False
 5350_01,Europa,TRAPPIST-1e,False
-5351_01,Mars,55 Cancri e,True
+5351_01,Mars,55 Cancri e,
 5353_01,Europa,55 Cancri e,True
 5353_02,Europa,TRAPPIST-1e,False
 5354_01,Mars,PSO J318.5-22,False
@@ -5059,7 +5059,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5408_02,Mars,TRAPPIST-1e,False
 5410_01,Mars,TRAPPIST-1e,False
 5411_01,Europa,TRAPPIST-1e,False
-5412_01,Earth,TRAPPIST-1e,True
+5412_01,Earth,TRAPPIST-1e,
 5413_01,Earth,TRAPPIST-1e,False
 5414_01,Earth,PSO J318.5-22,False
 5414_02,Earth,TRAPPIST-1e,False
@@ -5071,7 +5071,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5416_02,Mars,TRAPPIST-1e,False
 5416_03,Mars,TRAPPIST-1e,True
 5416_04,Mars,55 Cancri e,False
-5418_01,Mars,TRAPPIST-1e,True
+5418_01,Mars,TRAPPIST-1e,
 5420_01,Earth,TRAPPIST-1e,False
 5421_01,Earth,TRAPPIST-1e,False
 5422_01,Europa,55 Cancri e,True
@@ -5098,10 +5098,10 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5445_01,,TRAPPIST-1e,False
 5446_01,Earth,TRAPPIST-1e,True
 5447_01,Mars,55 Cancri e,True
-5447_02,Mars,TRAPPIST-1e,True
+5447_02,Mars,TRAPPIST-1e,
 5450_01,Earth,PSO J318.5-22,True
 5451_01,,PSO J318.5-22,False
-5452_01,Europa,TRAPPIST-1e,True
+5452_01,Europa,TRAPPIST-1e,
 5453_01,Earth,55 Cancri e,False
 5454_01,Mars,TRAPPIST-1e,False
 5455_01,Mars,55 Cancri e,False
@@ -5204,7 +5204,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5546_01,Europa,55 Cancri e,False
 5550_01,Earth,TRAPPIST-1e,False
 5551_01,Earth,TRAPPIST-1e,True
-5552_01,Mars,TRAPPIST-1e,True
+5552_01,Mars,TRAPPIST-1e,
 5552_02,Mars,TRAPPIST-1e,True
 5552_03,Mars,TRAPPIST-1e,False
 5555_01,,,False
@@ -5269,7 +5269,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5622_01,Earth,TRAPPIST-1e,False
 5623_01,Earth,TRAPPIST-1e,True
 5625_01,Mars,TRAPPIST-1e,True
-5625_02,Mars,PSO J318.5-22,True
+5625_02,Mars,PSO J318.5-22,
 5625_03,Mars,TRAPPIST-1e,False
 5625_04,Mars,TRAPPIST-1e,True
 5625_05,Mars,TRAPPIST-1e,False
@@ -5369,7 +5369,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5733_01,Earth,55 Cancri e,False
 5733_02,Earth,,False
 5735_01,Earth,TRAPPIST-1e,True
-5736_01,Earth,TRAPPIST-1e,True
+5736_01,Earth,TRAPPIST-1e,
 5737_01,Europa,TRAPPIST-1e,False
 5737_02,Europa,TRAPPIST-1e,False
 5738_01,Earth,TRAPPIST-1e,True
@@ -5387,7 +5387,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5756_01,Earth,TRAPPIST-1e,False
 5756_02,Earth,TRAPPIST-1e,False
 5756_03,Earth,PSO J318.5-22,False
-5756_04,Earth,TRAPPIST-1e,True
+5756_04,Earth,TRAPPIST-1e,
 5756_05,Earth,TRAPPIST-1e,True
 5756_06,Earth,PSO J318.5-22,False
 5756_07,Earth,TRAPPIST-1e,False
@@ -5408,7 +5408,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5772_01,Mars,55 Cancri e,False
 5773_01,Europa,55 Cancri e,True
 5776_01,Earth,TRAPPIST-1e,False
-5777_01,Earth,PSO J318.5-22,True
+5777_01,Earth,PSO J318.5-22,
 5778_01,Earth,TRAPPIST-1e,False
 5779_01,Earth,TRAPPIST-1e,False
 5780_01,Europa,TRAPPIST-1e,False
@@ -5458,7 +5458,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5817_01,Mars,TRAPPIST-1e,True
 5818_01,Earth,,False
 5819_01,Europa,TRAPPIST-1e,True
-5820_01,Earth,TRAPPIST-1e,True
+5820_01,Earth,TRAPPIST-1e,
 5821_01,Europa,55 Cancri e,False
 5822_01,Earth,TRAPPIST-1e,True
 5823_01,Earth,55 Cancri e,True
@@ -5485,7 +5485,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5849_01,Earth,TRAPPIST-1e,False
 5852_01,Earth,TRAPPIST-1e,False
 5854_01,Earth,TRAPPIST-1e,False
-5855_01,Earth,TRAPPIST-1e,True
+5855_01,Earth,TRAPPIST-1e,
 5855_02,Earth,PSO J318.5-22,False
 5856_01,Europa,55 Cancri e,True
 5856_02,Europa,TRAPPIST-1e,True
@@ -5530,7 +5530,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5890_01,Earth,TRAPPIST-1e,True
 5891_01,Earth,PSO J318.5-22,True
 5894_01,Earth,PSO J318.5-22,True
-5897_01,Europa,55 Cancri e,True
+5897_01,Europa,55 Cancri e,
 5898_01,Earth,55 Cancri e,True
 5900_01,Mars,TRAPPIST-1e,True
 5900_02,Mars,TRAPPIST-1e,True
@@ -5562,7 +5562,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5927_01,Europa,55 Cancri e,False
 5927_02,Europa,,False
 5927_03,Europa,55 Cancri e,True
-5927_04,Europa,55 Cancri e,True
+5927_04,Europa,55 Cancri e,
 5927_05,Europa,TRAPPIST-1e,True
 5927_06,Europa,55 Cancri e,False
 5927_07,Europa,55 Cancri e,False
@@ -5587,7 +5587,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5949_02,Mars,TRAPPIST-1e,True
 5950_01,Earth,TRAPPIST-1e,False
 5951_01,Earth,55 Cancri e,False
-5952_01,Mars,55 Cancri e,True
+5952_01,Mars,55 Cancri e,
 5953_01,Mars,TRAPPIST-1e,False
 5954_01,Mars,TRAPPIST-1e,False
 5955_01,Mars,TRAPPIST-1e,False
@@ -5630,7 +5630,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5984_01,Mars,PSO J318.5-22,False
 5984_02,Mars,TRAPPIST-1e,False
 5985_01,Earth,TRAPPIST-1e,False
-5986_01,Europa,TRAPPIST-1e,True
+5986_01,Europa,TRAPPIST-1e,
 5987_01,Earth,TRAPPIST-1e,False
 5988_01,Mars,55 Cancri e,False
 5989_01,,TRAPPIST-1e,False
@@ -5696,12 +5696,12 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6034_02,Mars,PSO J318.5-22,True
 6034_03,Mars,TRAPPIST-1e,False
 6035_01,Earth,TRAPPIST-1e,False
-6035_02,Earth,TRAPPIST-1e,True
+6035_02,Earth,TRAPPIST-1e,
 6036_01,Europa,TRAPPIST-1e,False
 6036_02,,TRAPPIST-1e,False
 6036_03,Europa,TRAPPIST-1e,False
 6038_01,Mars,TRAPPIST-1e,False
-6039_01,Earth,TRAPPIST-1e,True
+6039_01,Earth,TRAPPIST-1e,
 6039_02,Earth,,False
 6040_01,Earth,TRAPPIST-1e,False
 6041_01,Mars,TRAPPIST-1e,False
@@ -5725,7 +5725,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6065_01,,TRAPPIST-1e,False
 6066_01,Europa,TRAPPIST-1e,False
 6066_02,Europa,55 Cancri e,False
-6066_03,Europa,TRAPPIST-1e,True
+6066_03,Europa,TRAPPIST-1e,
 6067_01,Earth,TRAPPIST-1e,False
 6068_01,Earth,TRAPPIST-1e,False
 6069_01,Mars,55 Cancri e,False
@@ -5733,7 +5733,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6071_01,Earth,TRAPPIST-1e,False
 6073_01,Mars,55 Cancri e,True
 6075_01,Europa,TRAPPIST-1e,True
-6076_01,Earth,TRAPPIST-1e,True
+6076_01,Earth,TRAPPIST-1e,
 6077_01,Earth,TRAPPIST-1e,True
 6080_01,Earth,TRAPPIST-1e,False
 6082_01,Earth,TRAPPIST-1e,False
@@ -5772,7 +5772,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6111_05,Europa,TRAPPIST-1e,False
 6112_01,Mars,TRAPPIST-1e,True
 6115_01,Mars,TRAPPIST-1e,False
-6116_01,Mars,TRAPPIST-1e,True
+6116_01,Mars,TRAPPIST-1e,
 6117_01,Europa,TRAPPIST-1e,False
 6118_01,Mars,55 Cancri e,False
 6118_02,Mars,TRAPPIST-1e,True
@@ -5798,7 +5798,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6137_05,Earth,TRAPPIST-1e,True
 6137_06,Earth,TRAPPIST-1e,False
 6138_01,Mars,TRAPPIST-1e,False
-6139_01,Europa,TRAPPIST-1e,True
+6139_01,Europa,TRAPPIST-1e,
 6139_02,Europa,TRAPPIST-1e,True
 6139_03,Europa,TRAPPIST-1e,False
 6139_04,Europa,TRAPPIST-1e,True
@@ -5807,11 +5807,11 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6141_01,Earth,PSO J318.5-22,False
 6141_02,Earth,,False
 6143_01,Earth,TRAPPIST-1e,False
-6145_01,Europa,55 Cancri e,True
+6145_01,Europa,55 Cancri e,
 6146_01,Europa,TRAPPIST-1e,False
 6148_01,Mars,TRAPPIST-1e,True
 6148_02,Mars,TRAPPIST-1e,True
-6149_01,Earth,TRAPPIST-1e,True
+6149_01,Earth,TRAPPIST-1e,
 6150_01,Earth,TRAPPIST-1e,False
 6152_01,Europa,TRAPPIST-1e,True
 6152_02,Europa,TRAPPIST-1e,False
@@ -5924,7 +5924,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6282_01,Mars,TRAPPIST-1e,False
 6283_01,Earth,TRAPPIST-1e,False
 6283_02,Earth,TRAPPIST-1e,False
-6285_01,Europa,55 Cancri e,True
+6285_01,Europa,55 Cancri e,
 6285_02,Europa,TRAPPIST-1e,False
 6289_01,Earth,TRAPPIST-1e,False
 6290_01,Earth,TRAPPIST-1e,False
@@ -5947,7 +5947,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6305_02,Europa,TRAPPIST-1e,False
 6308_01,Earth,TRAPPIST-1e,False
 6309_01,Earth,TRAPPIST-1e,False
-6309_02,Earth,TRAPPIST-1e,True
+6309_02,Earth,TRAPPIST-1e,
 6309_03,Earth,TRAPPIST-1e,True
 6309_04,Earth,TRAPPIST-1e,False
 6309_05,Earth,55 Cancri e,False
@@ -5966,7 +5966,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6323_01,Europa,55 Cancri e,False
 6323_02,Europa,TRAPPIST-1e,False
 6324_01,Earth,,False
-6324_02,Earth,55 Cancri e,True
+6324_02,Earth,55 Cancri e,
 6324_03,Earth,TRAPPIST-1e,False
 6325_01,Earth,TRAPPIST-1e,True
 6325_02,Earth,TRAPPIST-1e,False
@@ -6056,7 +6056,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6402_05,,TRAPPIST-1e,False
 6404_01,Earth,TRAPPIST-1e,False
 6405_01,,PSO J318.5-22,False
-6405_02,Earth,,True
+6405_02,Earth,,
 6405_03,Earth,TRAPPIST-1e,True
 6405_04,Earth,55 Cancri e,False
 6406_01,Europa,55 Cancri e,True
@@ -6071,7 +6071,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6415_01,Mars,TRAPPIST-1e,True
 6416_01,Earth,TRAPPIST-1e,False
 6418_01,Earth,TRAPPIST-1e,False
-6419_01,Earth,TRAPPIST-1e,True
+6419_01,Earth,TRAPPIST-1e,
 6421_01,Europa,55 Cancri e,True
 6421_02,Europa,TRAPPIST-1e,False
 6422_01,Mars,TRAPPIST-1e,False
@@ -6100,7 +6100,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6443_05,Earth,TRAPPIST-1e,False
 6443_06,Earth,TRAPPIST-1e,False
 6443_07,Earth,TRAPPIST-1e,True
-6444_01,Earth,TRAPPIST-1e,True
+6444_01,Earth,TRAPPIST-1e,
 6444_02,Earth,TRAPPIST-1e,True
 6446_01,Earth,TRAPPIST-1e,False
 6446_02,Earth,TRAPPIST-1e,True
@@ -6118,7 +6118,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6453_01,Earth,PSO J318.5-22,False
 6454_01,Earth,TRAPPIST-1e,True
 6455_01,Europa,TRAPPIST-1e,False
-6456_01,Earth,TRAPPIST-1e,True
+6456_01,Earth,TRAPPIST-1e,
 6457_01,Earth,55 Cancri e,False
 6458_01,Mars,TRAPPIST-1e,False
 6459_01,Earth,TRAPPIST-1e,True
@@ -6177,7 +6177,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6520_01,Earth,,False
 6522_01,Earth,55 Cancri e,False
 6523_01,Earth,PSO J318.5-22,True
-6525_01,Earth,TRAPPIST-1e,True
+6525_01,Earth,TRAPPIST-1e,
 6525_02,Earth,PSO J318.5-22,True
 6525_03,Earth,TRAPPIST-1e,True
 6526_01,Earth,TRAPPIST-1e,True
@@ -6225,7 +6225,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6583_01,Europa,TRAPPIST-1e,False
 6583_02,Europa,55 Cancri e,False
 6585_01,Earth,TRAPPIST-1e,True
-6585_02,Earth,TRAPPIST-1e,True
+6585_02,Earth,TRAPPIST-1e,
 6588_01,Earth,TRAPPIST-1e,False
 6588_02,Earth,TRAPPIST-1e,True
 6590_01,Europa,TRAPPIST-1e,True
@@ -6263,7 +6263,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6626_01,Earth,TRAPPIST-1e,True
 6628_01,Earth,TRAPPIST-1e,False
 6630_01,Earth,TRAPPIST-1e,False
-6631_01,Europa,TRAPPIST-1e,True
+6631_01,Europa,TRAPPIST-1e,
 6633_01,Europa,TRAPPIST-1e,False
 6634_01,Europa,55 Cancri e,True
 6634_02,,TRAPPIST-1e,True
@@ -6287,10 +6287,10 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6654_03,Earth,TRAPPIST-1e,True
 6655_01,Mars,TRAPPIST-1e,True
 6656_01,Europa,TRAPPIST-1e,True
-6659_01,Mars,TRAPPIST-1e,True
+6659_01,Mars,TRAPPIST-1e,
 6660_01,Earth,TRAPPIST-1e,False
 6662_01,Earth,TRAPPIST-1e,False
-6662_02,Earth,TRAPPIST-1e,True
+6662_02,Earth,TRAPPIST-1e,
 6662_03,Earth,55 Cancri e,True
 6663_01,Earth,TRAPPIST-1e,False
 6663_02,Earth,TRAPPIST-1e,False
@@ -6314,10 +6314,10 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6673_01,Earth,TRAPPIST-1e,False
 6674_01,Europa,TRAPPIST-1e,False
 6674_02,Europa,TRAPPIST-1e,True
-6674_03,Europa,55 Cancri e,True
+6674_03,Europa,55 Cancri e,
 6674_04,Europa,TRAPPIST-1e,True
 6674_05,Europa,TRAPPIST-1e,False
-6675_01,Earth,TRAPPIST-1e,True
+6675_01,Earth,TRAPPIST-1e,
 6675_02,Earth,PSO J318.5-22,False
 6676_01,Europa,TRAPPIST-1e,True
 6680_01,Earth,TRAPPIST-1e,False
@@ -6351,7 +6351,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6718_03,Earth,TRAPPIST-1e,True
 6719_01,Mars,TRAPPIST-1e,True
 6720_01,Europa,TRAPPIST-1e,False
-6721_01,Earth,TRAPPIST-1e,True
+6721_01,Earth,TRAPPIST-1e,
 6722_01,Europa,55 Cancri e,True
 6722_02,Europa,55 Cancri e,False
 6722_03,Europa,55 Cancri e,True
@@ -6372,7 +6372,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6736_01,Mars,,False
 6739_01,Earth,TRAPPIST-1e,False
 6741_01,Earth,TRAPPIST-1e,False
-6741_02,Earth,PSO J318.5-22,True
+6741_02,Earth,PSO J318.5-22,
 6742_01,Earth,TRAPPIST-1e,False
 6744_01,Mars,TRAPPIST-1e,False
 6744_02,Mars,TRAPPIST-1e,False
@@ -6427,7 +6427,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6784_02,Earth,TRAPPIST-1e,False
 6786_01,Earth,PSO J318.5-22,False
 6787_01,Earth,TRAPPIST-1e,False
-6787_02,Earth,TRAPPIST-1e,True
+6787_02,Earth,TRAPPIST-1e,
 6787_03,Earth,TRAPPIST-1e,False
 6787_04,Earth,PSO J318.5-22,True
 6787_05,Earth,TRAPPIST-1e,True
@@ -6471,7 +6471,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6827_01,Europa,55 Cancri e,False
 6827_02,Europa,TRAPPIST-1e,True
 6827_03,Europa,TRAPPIST-1e,True
-6827_04,Europa,TRAPPIST-1e,True
+6827_04,Europa,TRAPPIST-1e,
 6829_01,Earth,TRAPPIST-1e,True
 6829_02,Earth,TRAPPIST-1e,False
 6829_03,Earth,TRAPPIST-1e,True
@@ -6523,7 +6523,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6887_01,Earth,TRAPPIST-1e,False
 6889_01,Earth,,False
 6891_01,Mars,TRAPPIST-1e,False
-6892_01,Earth,TRAPPIST-1e,True
+6892_01,Earth,TRAPPIST-1e,
 6893_01,Europa,TRAPPIST-1e,True
 6894_01,Mars,TRAPPIST-1e,True
 6894_02,Mars,TRAPPIST-1e,False
@@ -6534,7 +6534,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6896_03,Mars,TRAPPIST-1e,False
 6898_01,Europa,55 Cancri e,False
 6899_01,Europa,TRAPPIST-1e,False
-6899_02,Europa,TRAPPIST-1e,True
+6899_02,Europa,TRAPPIST-1e,
 6900_01,Earth,TRAPPIST-1e,True
 6901_01,Mars,TRAPPIST-1e,False
 6902_01,Europa,TRAPPIST-1e,True
@@ -6686,8 +6686,8 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7049_01,Earth,TRAPPIST-1e,True
 7050_01,Earth,TRAPPIST-1e,False
 7051_01,Mars,TRAPPIST-1e,False
-7052_01,Europa,55 Cancri e,True
-7053_01,Earth,PSO J318.5-22,True
+7052_01,Europa,55 Cancri e,
+7053_01,Earth,PSO J318.5-22,
 7056_01,Europa,55 Cancri e,False
 7057_01,Mars,TRAPPIST-1e,False
 7058_01,Mars,55 Cancri e,True
@@ -6710,7 +6710,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7080_01,Earth,55 Cancri e,True
 7082_01,Earth,TRAPPIST-1e,False
 7083_01,Europa,TRAPPIST-1e,True
-7083_02,Europa,55 Cancri e,True
+7083_02,Europa,55 Cancri e,
 7084_01,Earth,55 Cancri e,False
 7085_01,Mars,TRAPPIST-1e,False
 7085_02,Mars,55 Cancri e,True
@@ -6782,7 +6782,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7159_01,Europa,PSO J318.5-22,True
 7160_01,Earth,TRAPPIST-1e,True
 7161_01,Europa,TRAPPIST-1e,False
-7162_01,Earth,TRAPPIST-1e,True
+7162_01,Earth,TRAPPIST-1e,
 7165_01,Mars,TRAPPIST-1e,True
 7166_01,Mars,TRAPPIST-1e,False
 7167_01,Europa,55 Cancri e,False
@@ -6801,7 +6801,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7182_01,Earth,TRAPPIST-1e,False
 7184_01,Earth,TRAPPIST-1e,False
 7186_01,Europa,TRAPPIST-1e,True
-7186_02,Europa,TRAPPIST-1e,True
+7186_02,Europa,TRAPPIST-1e,
 7186_03,Europa,TRAPPIST-1e,False
 7187_01,Earth,PSO J318.5-22,True
 7188_01,Europa,TRAPPIST-1e,False
@@ -6824,7 +6824,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7208_01,Earth,TRAPPIST-1e,False
 7208_02,Earth,TRAPPIST-1e,False
 7210_01,Earth,TRAPPIST-1e,False
-7214_01,Earth,55 Cancri e,True
+7214_01,Earth,55 Cancri e,
 7215_01,Mars,TRAPPIST-1e,True
 7216_01,Earth,PSO J318.5-22,False
 7217_01,Mars,TRAPPIST-1e,False
@@ -6878,7 +6878,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7278_01,Earth,TRAPPIST-1e,False
 7279_01,Europa,55 Cancri e,True
 7280_01,Mars,TRAPPIST-1e,False
-7283_01,Mars,TRAPPIST-1e,True
+7283_01,Mars,TRAPPIST-1e,
 7284_01,Earth,TRAPPIST-1e,False
 7285_01,Earth,PSO J318.5-22,True
 7289_01,Europa,55 Cancri e,False
@@ -6890,7 +6890,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7292_01,Mars,55 Cancri e,False
 7296_01,Mars,TRAPPIST-1e,False
 7297_01,Earth,TRAPPIST-1e,False
-7298_01,Earth,TRAPPIST-1e,True
+7298_01,Earth,TRAPPIST-1e,
 7300_01,Earth,TRAPPIST-1e,False
 7301_01,Mars,TRAPPIST-1e,True
 7302_01,Mars,TRAPPIST-1e,False
@@ -6900,10 +6900,10 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7306_01,Earth,55 Cancri e,False
 7307_01,Earth,TRAPPIST-1e,False
 7309_01,Mars,TRAPPIST-1e,False
-7310_01,Mars,TRAPPIST-1e,True
+7310_01,Mars,TRAPPIST-1e,
 7311_01,Earth,TRAPPIST-1e,False
 7313_01,Mars,TRAPPIST-1e,False
-7314_01,Europa,,True
+7314_01,Europa,,
 7320_01,Earth,TRAPPIST-1e,False
 7321_01,Mars,TRAPPIST-1e,True
 7322_01,Earth,TRAPPIST-1e,False
@@ -6968,8 +6968,8 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7396_03,Europa,PSO J318.5-22,True
 7398_01,Earth,TRAPPIST-1e,False
 7399_01,Earth,TRAPPIST-1e,False
-7401_01,Mars,55 Cancri e,True
-7402_01,Europa,TRAPPIST-1e,True
+7401_01,Mars,55 Cancri e,
+7402_01,Europa,TRAPPIST-1e,
 7402_02,Europa,55 Cancri e,True
 7403_01,Earth,TRAPPIST-1e,False
 7405_01,Earth,TRAPPIST-1e,False
@@ -6984,14 +6984,14 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7422_01,Earth,TRAPPIST-1e,False
 7425_01,Earth,TRAPPIST-1e,True
 7425_02,Earth,TRAPPIST-1e,False
-7427_01,Mars,TRAPPIST-1e,True
+7427_01,Mars,TRAPPIST-1e,
 7428_01,Europa,TRAPPIST-1e,False
 7429_01,Mars,TRAPPIST-1e,False
 7430_01,Earth,PSO J318.5-22,False
 7431_01,Europa,55 Cancri e,False
 7432_01,Europa,TRAPPIST-1e,True
 7435_01,Europa,55 Cancri e,True
-7436_01,Earth,TRAPPIST-1e,True
+7436_01,Earth,TRAPPIST-1e,
 7437_01,Europa,55 Cancri e,True
 7437_02,Europa,TRAPPIST-1e,True
 7437_03,Europa,TRAPPIST-1e,True
@@ -7057,8 +7057,8 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7508_01,Europa,TRAPPIST-1e,False
 7509_01,Earth,TRAPPIST-1e,False
 7510_01,Mars,55 Cancri e,False
-7512_01,Earth,PSO J318.5-22,True
-7513_01,Earth,TRAPPIST-1e,True
+7512_01,Earth,PSO J318.5-22,
+7513_01,Earth,TRAPPIST-1e,
 7514_01,Earth,TRAPPIST-1e,False
 7515_01,Mars,TRAPPIST-1e,True
 7515_02,Mars,TRAPPIST-1e,False
@@ -7092,7 +7092,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7552_01,Earth,TRAPPIST-1e,False
 7553_01,Earth,PSO J318.5-22,False
 7559_01,Earth,TRAPPIST-1e,False
-7560_01,Europa,TRAPPIST-1e,True
+7560_01,Europa,TRAPPIST-1e,
 7561_01,Earth,TRAPPIST-1e,False
 7563_01,Mars,55 Cancri e,True
 7565_01,Europa,TRAPPIST-1e,False
@@ -7113,7 +7113,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7579_01,Earth,PSO J318.5-22,False
 7580_01,Earth,TRAPPIST-1e,True
 7583_01,Mars,TRAPPIST-1e,False
-7584_01,Europa,,True
+7584_01,Europa,,
 7584_02,Europa,TRAPPIST-1e,True
 7584_03,,TRAPPIST-1e,False
 7585_01,Europa,55 Cancri e,True
@@ -7132,7 +7132,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7599_01,Earth,TRAPPIST-1e,False
 7601_01,Earth,TRAPPIST-1e,False
 7604_01,Mars,TRAPPIST-1e,True
-7604_02,Mars,TRAPPIST-1e,True
+7604_02,Mars,TRAPPIST-1e,
 7605_01,Mars,55 Cancri e,False
 7606_01,Mars,TRAPPIST-1e,True
 7608_01,Mars,TRAPPIST-1e,True
@@ -7195,7 +7195,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7687_01,Earth,PSO J318.5-22,False
 7688_01,Earth,TRAPPIST-1e,False
 7689_01,Earth,,False
-7690_01,Earth,TRAPPIST-1e,True
+7690_01,Earth,TRAPPIST-1e,
 7691_01,Mars,TRAPPIST-1e,True
 7692_01,Europa,55 Cancri e,False
 7693_01,Europa,TRAPPIST-1e,False
@@ -7203,7 +7203,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7694_01,Earth,TRAPPIST-1e,False
 7696_01,Mars,TRAPPIST-1e,False
 7696_02,Mars,TRAPPIST-1e,False
-7697_01,Europa,TRAPPIST-1e,True
+7697_01,Europa,TRAPPIST-1e,
 7697_02,Europa,55 Cancri e,True
 7698_01,Mars,TRAPPIST-1e,False
 7699_01,Earth,55 Cancri e,False
@@ -7217,7 +7217,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7709_01,Earth,PSO J318.5-22,False
 7709_02,Earth,PSO J318.5-22,True
 7710_01,Europa,TRAPPIST-1e,False
-7711_01,,TRAPPIST-1e,True
+7711_01,,TRAPPIST-1e,
 7712_01,Europa,TRAPPIST-1e,False
 7713_01,Europa,TRAPPIST-1e,True
 7714_01,Earth,TRAPPIST-1e,False
@@ -7305,7 +7305,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7812_01,Mars,TRAPPIST-1e,False
 7813_01,Earth,TRAPPIST-1e,False
 7815_01,Earth,PSO J318.5-22,False
-7816_01,Earth,PSO J318.5-22,True
+7816_01,Earth,PSO J318.5-22,
 7818_01,Earth,TRAPPIST-1e,True
 7820_01,Earth,55 Cancri e,False
 7821_01,,TRAPPIST-1e,False
@@ -7332,7 +7332,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7843_01,Mars,TRAPPIST-1e,True
 7845_01,Europa,55 Cancri e,True
 7847_01,Earth,TRAPPIST-1e,False
-7848_01,Mars,TRAPPIST-1e,True
+7848_01,Mars,TRAPPIST-1e,
 7848_02,Mars,TRAPPIST-1e,True
 7849_01,Earth,TRAPPIST-1e,False
 7850_01,Mars,TRAPPIST-1e,True
@@ -7356,7 +7356,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7868_01,Earth,55 Cancri e,False
 7870_01,Europa,TRAPPIST-1e,True
 7871_01,Earth,TRAPPIST-1e,True
-7872_01,Earth,TRAPPIST-1e,True
+7872_01,Earth,TRAPPIST-1e,
 7872_02,Earth,TRAPPIST-1e,False
 7872_03,Earth,TRAPPIST-1e,False
 7872_04,Earth,TRAPPIST-1e,False
@@ -7381,7 +7381,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7890_02,Earth,55 Cancri e,True
 7890_03,Earth,TRAPPIST-1e,True
 7891_01,Earth,55 Cancri e,True
-7891_02,Earth,TRAPPIST-1e,True
+7891_02,Earth,TRAPPIST-1e,
 7892_01,Mars,TRAPPIST-1e,False
 7894_01,Earth,55 Cancri e,False
 7895_01,Earth,55 Cancri e,False
@@ -7390,7 +7390,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7899_02,Earth,TRAPPIST-1e,False
 7899_03,Earth,TRAPPIST-1e,True
 7901_01,Mars,TRAPPIST-1e,True
-7902_01,Earth,TRAPPIST-1e,True
+7902_01,Earth,TRAPPIST-1e,
 7902_02,Earth,PSO J318.5-22,True
 7902_03,Earth,TRAPPIST-1e,True
 7902_04,Earth,TRAPPIST-1e,False
@@ -7432,7 +7432,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7945_01,Mars,TRAPPIST-1e,True
 7946_01,Earth,PSO J318.5-22,False
 7947_01,Mars,TRAPPIST-1e,False
-7949_01,Earth,TRAPPIST-1e,True
+7949_01,Earth,TRAPPIST-1e,
 7950_01,,TRAPPIST-1e,False
 7950_02,Earth,TRAPPIST-1e,True
 7950_03,Earth,55 Cancri e,False
@@ -7490,7 +7490,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8012_02,Mars,TRAPPIST-1e,False
 8012_03,Mars,TRAPPIST-1e,True
 8014_01,Earth,TRAPPIST-1e,True
-8015_01,Europa,TRAPPIST-1e,True
+8015_01,Europa,TRAPPIST-1e,
 8015_02,Europa,TRAPPIST-1e,False
 8015_03,Europa,55 Cancri e,True
 8016_01,Earth,TRAPPIST-1e,False
@@ -7594,7 +7594,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8117_03,Europa,55 Cancri e,True
 8118_01,Earth,TRAPPIST-1e,True
 8119_01,Earth,55 Cancri e,True
-8119_02,Earth,55 Cancri e,True
+8119_02,Earth,55 Cancri e,
 8119_03,Earth,55 Cancri e,False
 8120_01,Europa,55 Cancri e,False
 8121_01,Earth,TRAPPIST-1e,True
@@ -7689,7 +7689,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8203_02,Europa,TRAPPIST-1e,True
 8204_01,Europa,TRAPPIST-1e,False
 8204_02,Europa,TRAPPIST-1e,False
-8205_01,Earth,TRAPPIST-1e,True
+8205_01,Earth,TRAPPIST-1e,
 8207_01,Mars,TRAPPIST-1e,True
 8208_01,Earth,PSO J318.5-22,True
 8209_01,Earth,TRAPPIST-1e,False
@@ -7701,7 +7701,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8216_01,Earth,TRAPPIST-1e,False
 8217_01,Earth,TRAPPIST-1e,False
 8218_01,Europa,TRAPPIST-1e,True
-8219_01,Earth,TRAPPIST-1e,True
+8219_01,Earth,TRAPPIST-1e,
 8220_01,Europa,TRAPPIST-1e,False
 8221_01,Mars,TRAPPIST-1e,True
 8222_01,Mars,TRAPPIST-1e,False
@@ -7731,7 +7731,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8248_02,Earth,PSO J318.5-22,False
 8251_01,Earth,,True
 8252_01,Earth,55 Cancri e,False
-8252_02,Earth,TRAPPIST-1e,True
+8252_02,Earth,TRAPPIST-1e,
 8252_03,Earth,TRAPPIST-1e,True
 8254_01,Mars,TRAPPIST-1e,True
 8255_01,Earth,TRAPPIST-1e,False
@@ -7755,7 +7755,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8272_03,Mars,TRAPPIST-1e,True
 8273_01,Earth,TRAPPIST-1e,False
 8275_01,Mars,TRAPPIST-1e,True
-8276_01,Europa,TRAPPIST-1e,True
+8276_01,Europa,TRAPPIST-1e,
 8276_02,Europa,TRAPPIST-1e,True
 8277_01,Earth,55 Cancri e,True
 8279_01,Earth,TRAPPIST-1e,False
@@ -7813,7 +7813,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8338_02,Mars,TRAPPIST-1e,False
 8338_03,Mars,TRAPPIST-1e,True
 8339_01,Europa,TRAPPIST-1e,False
-8339_02,Europa,TRAPPIST-1e,True
+8339_02,Europa,TRAPPIST-1e,
 8341_01,Earth,TRAPPIST-1e,False
 8342_01,Europa,TRAPPIST-1e,False
 8342_02,Europa,TRAPPIST-1e,True
@@ -7838,7 +7838,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8366_02,Earth,TRAPPIST-1e,False
 8366_03,Earth,TRAPPIST-1e,True
 8366_04,Earth,TRAPPIST-1e,False
-8366_05,Earth,TRAPPIST-1e,True
+8366_05,Earth,TRAPPIST-1e,
 8368_01,Earth,TRAPPIST-1e,True
 8368_02,Earth,55 Cancri e,False
 8369_01,Mars,TRAPPIST-1e,True
@@ -7895,7 +7895,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8429_01,Earth,55 Cancri e,True
 8430_01,Earth,TRAPPIST-1e,False
 8431_01,Europa,55 Cancri e,True
-8431_02,Europa,55 Cancri e,True
+8431_02,Europa,55 Cancri e,
 8432_01,Earth,TRAPPIST-1e,True
 8433_01,Earth,TRAPPIST-1e,False
 8437_01,Earth,PSO J318.5-22,False
@@ -7932,10 +7932,10 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8467_01,Earth,55 Cancri e,True
 8468_01,Mars,55 Cancri e,False
 8469_01,Earth,55 Cancri e,True
-8470_01,Europa,55 Cancri e,True
+8470_01,Europa,55 Cancri e,
 8471_01,Europa,55 Cancri e,False
 8472_01,Earth,TRAPPIST-1e,True
-8474_01,Earth,55 Cancri e,True
+8474_01,Earth,55 Cancri e,
 8475_01,Europa,55 Cancri e,False
 8475_02,Europa,55 Cancri e,False
 8476_01,Mars,TRAPPIST-1e,False
@@ -7947,7 +7947,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8482_01,Earth,55 Cancri e,True
 8483_01,Europa,TRAPPIST-1e,True
 8486_01,Earth,TRAPPIST-1e,True
-8487_01,Europa,55 Cancri e,True
+8487_01,Europa,55 Cancri e,
 8489_01,Earth,PSO J318.5-22,True
 8491_01,Mars,55 Cancri e,False
 8492_01,Earth,TRAPPIST-1e,False
@@ -7968,7 +7968,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8509_01,Earth,TRAPPIST-1e,False
 8511_01,Earth,PSO J318.5-22,False
 8512_01,Earth,55 Cancri e,False
-8514_01,Mars,TRAPPIST-1e,True
+8514_01,Mars,TRAPPIST-1e,
 8516_01,Earth,TRAPPIST-1e,False
 8521_01,Europa,TRAPPIST-1e,False
 8522_01,Earth,TRAPPIST-1e,False
@@ -8011,7 +8011,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8573_01,Earth,TRAPPIST-1e,False
 8573_02,Earth,TRAPPIST-1e,True
 8574_01,Mars,TRAPPIST-1e,True
-8574_02,Mars,,True
+8574_02,Mars,,
 8574_03,Mars,TRAPPIST-1e,True
 8574_04,Mars,TRAPPIST-1e,False
 8574_05,Mars,55 Cancri e,True
@@ -8154,14 +8154,14 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8717_01,Earth,TRAPPIST-1e,False
 8719_01,Europa,TRAPPIST-1e,False
 8719_02,Europa,55 Cancri e,False
-8719_03,Europa,55 Cancri e,True
+8719_03,Europa,55 Cancri e,
 8720_01,Earth,55 Cancri e,False
 8721_01,Europa,55 Cancri e,True
 8722_01,Mars,TRAPPIST-1e,True
 8722_02,Mars,TRAPPIST-1e,False
 8723_01,Earth,TRAPPIST-1e,False
 8727_01,Earth,55 Cancri e,False
-8728_01,Earth,TRAPPIST-1e,True
+8728_01,Earth,TRAPPIST-1e,
 8728_02,Earth,TRAPPIST-1e,False
 8728_03,Earth,TRAPPIST-1e,False
 8728_04,Earth,PSO J318.5-22,False
@@ -8180,7 +8180,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8741_01,Europa,TRAPPIST-1e,True
 8741_02,Europa,55 Cancri e,False
 8741_03,Europa,TRAPPIST-1e,False
-8743_01,Earth,55 Cancri e,True
+8743_01,Earth,55 Cancri e,
 8744_01,Earth,TRAPPIST-1e,False
 8749_01,Mars,TRAPPIST-1e,False
 8750_01,Earth,TRAPPIST-1e,False
@@ -8361,7 +8361,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8941_03,Mars,TRAPPIST-1e,False
 8942_01,Europa,TRAPPIST-1e,False
 8944_01,Earth,PSO J318.5-22,True
-8944_02,Earth,PSO J318.5-22,True
+8944_02,Earth,PSO J318.5-22,
 8944_03,Earth,TRAPPIST-1e,False
 8945_01,Europa,TRAPPIST-1e,False
 8945_02,Europa,TRAPPIST-1e,False
@@ -8419,7 +8419,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8989_03,Europa,TRAPPIST-1e,True
 8989_04,Europa,55 Cancri e,False
 8992_01,Mars,TRAPPIST-1e,False
-8993_01,Earth,PSO J318.5-22,True
+8993_01,Earth,PSO J318.5-22,
 8996_01,Europa,TRAPPIST-1e,False
 8997_01,Earth,55 Cancri e,True
 8997_02,Earth,TRAPPIST-1e,False
@@ -8454,7 +8454,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 9029_01,Mars,TRAPPIST-1e,False
 9030_01,Earth,TRAPPIST-1e,False
 9030_02,,TRAPPIST-1e,False
-9031_01,Earth,TRAPPIST-1e,True
+9031_01,Earth,TRAPPIST-1e,
 9032_01,Mars,TRAPPIST-1e,True
 9034_01,Europa,TRAPPIST-1e,True
 9034_02,Europa,TRAPPIST-1e,True
@@ -8500,7 +8500,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 9074_05,Earth,TRAPPIST-1e,True
 9074_06,Earth,55 Cancri e,False
 9075_01,Earth,TRAPPIST-1e,False
-9076_01,Earth,TRAPPIST-1e,True
+9076_01,Earth,TRAPPIST-1e,
 9077_01,Earth,55 Cancri e,False
 9077_02,Earth,PSO J318.5-22,True
 9078_01,Earth,PSO J318.5-22,False
@@ -8590,7 +8590,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 9168_01,Europa,55 Cancri e,False
 9168_02,Europa,TRAPPIST-1e,True
 9169_01,Mars,TRAPPIST-1e,False
-9170_01,Earth,TRAPPIST-1e,True
+9170_01,Earth,TRAPPIST-1e,
 9172_01,Earth,TRAPPIST-1e,False
 9173_01,Earth,PSO J318.5-22,False
 9174_01,Earth,PSO J318.5-22,False
@@ -8611,7 +8611,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 9189_01,Earth,PSO J318.5-22,False
 9190_01,Earth,TRAPPIST-1e,False
 9192_01,Earth,PSO J318.5-22,False
-9193_01,Earth,PSO J318.5-22,True
+9193_01,Earth,PSO J318.5-22,
 9194_01,,55 Cancri e,False
 9194_02,Europa,TRAPPIST-1e,False
 9195_01,Mars,TRAPPIST-1e,True
@@ -8619,7 +8619,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 9196_01,Europa,TRAPPIST-1e,False
 9196_02,Europa,TRAPPIST-1e,False
 9196_03,Europa,TRAPPIST-1e,False
-9197_01,Europa,55 Cancri e,True
+9197_01,Europa,55 Cancri e,
 9197_02,Europa,,False
 9197_03,Europa,TRAPPIST-1e,False
 9197_04,Europa,55 Cancri e,False
@@ -8650,7 +8650,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 9227_02,Earth,PSO J318.5-22,True
 9227_03,Earth,PSO J318.5-22,True
 9227_04,Earth,TRAPPIST-1e,True
-9227_05,Earth,TRAPPIST-1e,True
+9227_05,Earth,TRAPPIST-1e,
 9230_01,Europa,TRAPPIST-1e,False
 9231_01,Mars,55 Cancri e,True
 9231_02,Mars,TRAPPIST-1e,False
@@ -8663,7 +8663,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 9241_01,Mars,TRAPPIST-1e,False
 9242_01,Earth,TRAPPIST-1e,False
 9244_01,Earth,PSO J318.5-22,True
-9246_01,Earth,TRAPPIST-1e,True
+9246_01,Earth,TRAPPIST-1e,
 9247_01,Earth,TRAPPIST-1e,True
 9248_01,,55 Cancri e,False
 9250_01,Europa,TRAPPIST-1e,False
@@ -8674,7 +8674,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 9254_01,Earth,PSO J318.5-22,True
 9256_01,Earth,TRAPPIST-1e,True
 9257_01,,TRAPPIST-1e,False
-9259_01,Earth,TRAPPIST-1e,True
+9259_01,Earth,TRAPPIST-1e,
 9261_01,Earth,PSO J318.5-22,True
 9264_01,Europa,55 Cancri e,True
 9267_01,Europa,TRAPPIST-1e,True
@@ -8686,7 +8686,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 9274_01,,TRAPPIST-1e,True
 9275_01,Europa,TRAPPIST-1e,False
 9275_02,Europa,TRAPPIST-1e,False
-9275_03,Europa,TRAPPIST-1e,True
+9275_03,Europa,TRAPPIST-1e,
 9276_01,Europa,55 Cancri e,False
 9278_01,Earth,PSO J318.5-22,True
 9279_01,Earth,TRAPPIST-1e,False
@@ -8760,7 +8760,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0153_01,Earth,TRAPPIST-1e,False
 0154_01,Earth,PSO J318.5-22,True
 0155_01,Mars,TRAPPIST-1e,False
-0156_01,Mars,TRAPPIST-1e,True
+0156_01,Mars,TRAPPIST-1e,
 0157_01,Europa,TRAPPIST-1e,False
 0158_01,Earth,55 Cancri e,False
 0158_02,Earth,TRAPPIST-1e,False
@@ -8770,7 +8770,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0166_01,Earth,TRAPPIST-1e,False
 0168_01,Europa,TRAPPIST-1e,True
 0175_01,Earth,TRAPPIST-1e,True
-0175_02,Earth,55 Cancri e,True
+0175_02,Earth,55 Cancri e,
 0175_03,Earth,TRAPPIST-1e,True
 0175_04,Earth,TRAPPIST-1e,True
 0175_05,Earth,TRAPPIST-1e,False
@@ -8784,14 +8784,14 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0194_02,Europa,55 Cancri e,True
 0194_03,Europa,55 Cancri e,False
 0204_01,Earth,PSO J318.5-22,False
-0208_01,Earth,TRAPPIST-1e,True
+0208_01,Earth,TRAPPIST-1e,
 0209_01,Europa,TRAPPIST-1e,False
 0214_01,Europa,TRAPPIST-1e,False
 0214_02,Europa,TRAPPIST-1e,False
 0215_01,Earth,TRAPPIST-1e,True
 0218_01,Earth,TRAPPIST-1e,False
 0226_01,Europa,55 Cancri e,False
-0227_01,Earth,TRAPPIST-1e,True
+0227_01,Earth,TRAPPIST-1e,
 0228_01,Europa,TRAPPIST-1e,True
 0228_02,Europa,55 Cancri e,False
 0228_03,Europa,55 Cancri e,True
@@ -8857,7 +8857,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0342_02,Earth,PSO J318.5-22,True
 0344_01,Europa,TRAPPIST-1e,True
 0344_02,Europa,55 Cancri e,False
-0349_01,Europa,TRAPPIST-1e,True
+0349_01,Europa,TRAPPIST-1e,
 0349_02,Europa,TRAPPIST-1e,True
 0349_03,Europa,TRAPPIST-1e,False
 0349_04,Europa,55 Cancri e,True
@@ -8957,7 +8957,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0562_02,Mars,TRAPPIST-1e,True
 0574_01,Mars,TRAPPIST-1e,False
 0578_01,Earth,TRAPPIST-1e,True
-0578_02,Earth,TRAPPIST-1e,True
+0578_02,Earth,TRAPPIST-1e,
 0584_01,Earth,TRAPPIST-1e,True
 0584_02,Earth,TRAPPIST-1e,False
 0592_01,Earth,TRAPPIST-1e,False
@@ -9023,7 +9023,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0717_03,Europa,,True
 0717_04,Europa,TRAPPIST-1e,True
 0717_05,Europa,TRAPPIST-1e,False
-0717_06,Europa,TRAPPIST-1e,True
+0717_06,Europa,TRAPPIST-1e,
 0717_07,Europa,55 Cancri e,True
 0720_01,Mars,TRAPPIST-1e,True
 0720_02,Mars,TRAPPIST-1e,False
@@ -9075,13 +9075,13 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0792_01,Earth,PSO J318.5-22,True
 0800_01,Europa,55 Cancri e,False
 0801_01,Mars,TRAPPIST-1e,True
-0803_01,Earth,55 Cancri e,True
+0803_01,Earth,55 Cancri e,
 0804_01,Europa,55 Cancri e,True
 0807_01,Mars,TRAPPIST-1e,False
 0810_01,Mars,TRAPPIST-1e,False
 0812_01,Mars,TRAPPIST-1e,True
 0814_01,Mars,TRAPPIST-1e,False
-0821_01,Mars,55 Cancri e,True
+0821_01,Mars,55 Cancri e,
 0827_01,Europa,TRAPPIST-1e,False
 0827_02,Europa,TRAPPIST-1e,False
 0827_03,Europa,55 Cancri e,True
@@ -9146,7 +9146,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 0937_01,Mars,TRAPPIST-1e,True
 0943_01,Mars,TRAPPIST-1e,True
 0943_02,Mars,TRAPPIST-1e,True
-0943_03,Mars,55 Cancri e,True
+0943_03,Mars,55 Cancri e,
 0945_01,Mars,55 Cancri e,False
 0945_02,Mars,TRAPPIST-1e,False
 0948_01,Earth,TRAPPIST-1e,False
@@ -9201,7 +9201,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1073_01,Earth,TRAPPIST-1e,False
 1074_01,Earth,TRAPPIST-1e,False
 1074_02,Earth,PSO J318.5-22,True
-1081_01,Earth,,True
+1081_01,Earth,,
 1087_01,Mars,TRAPPIST-1e,False
 1090_01,Europa,TRAPPIST-1e,True
 1090_02,Europa,55 Cancri e,False
@@ -9219,7 +9219,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1111_03,Earth,55 Cancri e,False
 1118_01,Europa,TRAPPIST-1e,False
 1118_02,Europa,TRAPPIST-1e,True
-1118_03,Europa,TRAPPIST-1e,True
+1118_03,Europa,TRAPPIST-1e,
 1118_04,Europa,TRAPPIST-1e,False
 1118_05,Europa,TRAPPIST-1e,False
 1119_01,Mars,TRAPPIST-1e,False
@@ -9446,8 +9446,8 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1519_01,Earth,TRAPPIST-1e,False
 1522_01,Mars,TRAPPIST-1e,True
 1530_01,Earth,TRAPPIST-1e,False
-1534_01,Mars,TRAPPIST-1e,True
-1534_02,Mars,TRAPPIST-1e,True
+1534_01,Mars,TRAPPIST-1e,
+1534_02,Mars,TRAPPIST-1e,
 1535_01,Earth,PSO J318.5-22,False
 1537_01,Europa,TRAPPIST-1e,False
 1538_01,Mars,TRAPPIST-1e,False
@@ -9492,7 +9492,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1629_01,Europa,TRAPPIST-1e,False
 1629_02,Europa,TRAPPIST-1e,False
 1629_03,Europa,TRAPPIST-1e,True
-1629_04,Europa,TRAPPIST-1e,True
+1629_04,Europa,TRAPPIST-1e,
 1629_05,Europa,TRAPPIST-1e,True
 1629_06,Europa,55 Cancri e,True
 1639_01,Earth,TRAPPIST-1e,False
@@ -9507,7 +9507,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1665_02,Europa,,True
 1667_01,Earth,TRAPPIST-1e,False
 1675_01,Mars,55 Cancri e,True
-1678_01,Earth,TRAPPIST-1e,True
+1678_01,Earth,TRAPPIST-1e,
 1679_01,Earth,TRAPPIST-1e,True
 1680_01,Europa,,False
 1680_02,Europa,55 Cancri e,True
@@ -9590,7 +9590,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 1852_03,Europa,TRAPPIST-1e,True
 1852_04,Europa,55 Cancri e,True
 1858_01,Europa,55 Cancri e,False
-1862_01,Earth,55 Cancri e,True
+1862_01,Earth,55 Cancri e,
 1862_02,,55 Cancri e,False
 1862_03,Earth,TRAPPIST-1e,False
 1867_01,Europa,55 Cancri e,True
@@ -9734,7 +9734,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2178_01,Earth,TRAPPIST-1e,False
 2181_01,Earth,TRAPPIST-1e,False
 2184_01,Europa,55 Cancri e,True
-2184_02,Europa,TRAPPIST-1e,True
+2184_02,Europa,TRAPPIST-1e,
 2185_01,Europa,55 Cancri e,True
 2192_01,Earth,PSO J318.5-22,False
 2197_01,Earth,55 Cancri e,False
@@ -9746,7 +9746,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2217_01,Europa,TRAPPIST-1e,False
 2218_01,Earth,,False
 2222_01,Mars,TRAPPIST-1e,True
-2226_01,Earth,PSO J318.5-22,True
+2226_01,Earth,PSO J318.5-22,
 2227_01,Mars,TRAPPIST-1e,True
 2230_01,Earth,TRAPPIST-1e,True
 2236_01,Earth,,False
@@ -9816,7 +9816,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2362_01,Earth,TRAPPIST-1e,False
 2370_01,Earth,TRAPPIST-1e,True
 2370_02,Earth,TRAPPIST-1e,True
-2370_03,Earth,TRAPPIST-1e,True
+2370_03,Earth,TRAPPIST-1e,
 2370_04,Earth,TRAPPIST-1e,False
 2371_01,Earth,TRAPPIST-1e,False
 2372_01,Mars,TRAPPIST-1e,False
@@ -9836,7 +9836,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2394_03,Earth,55 Cancri e,False
 2400_01,Earth,55 Cancri e,False
 2405_01,Earth,PSO J318.5-22,False
-2407_01,Europa,55 Cancri e,True
+2407_01,Europa,55 Cancri e,
 2408_01,Earth,TRAPPIST-1e,False
 2415_01,Earth,TRAPPIST-1e,False
 2418_01,Earth,TRAPPIST-1e,False
@@ -9851,7 +9851,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2425_06,Earth,TRAPPIST-1e,True
 2428_01,Earth,PSO J318.5-22,False
 2430_01,Earth,TRAPPIST-1e,True
-2430_02,Earth,TRAPPIST-1e,True
+2430_02,Earth,TRAPPIST-1e,
 2430_03,,,False
 2434_01,Earth,TRAPPIST-1e,True
 2434_02,Earth,TRAPPIST-1e,False
@@ -9898,7 +9898,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2538_02,Europa,TRAPPIST-1e,True
 2539_01,Earth,TRAPPIST-1e,False
 2543_01,Earth,TRAPPIST-1e,False
-2554_01,Earth,PSO J318.5-22,True
+2554_01,Earth,PSO J318.5-22,
 2556_01,Mars,55 Cancri e,True
 2563_01,Earth,TRAPPIST-1e,True
 2566_01,Earth,,False
@@ -9933,7 +9933,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2623_01,Earth,TRAPPIST-1e,False
 2630_01,Earth,TRAPPIST-1e,False
 2630_02,Earth,TRAPPIST-1e,True
-2630_03,Earth,TRAPPIST-1e,True
+2630_03,Earth,TRAPPIST-1e,
 2632_01,Earth,TRAPPIST-1e,False
 2637_01,Earth,TRAPPIST-1e,False
 2637_02,Earth,PSO J318.5-22,True
@@ -9989,8 +9989,8 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2776_01,Earth,TRAPPIST-1e,False
 2777_01,Europa,TRAPPIST-1e,True
 2779_01,Earth,TRAPPIST-1e,False
-2782_01,Earth,TRAPPIST-1e,True
-2791_01,Earth,TRAPPIST-1e,True
+2782_01,Earth,TRAPPIST-1e,
+2791_01,Earth,TRAPPIST-1e,
 2794_01,Mars,TRAPPIST-1e,False
 2794_02,Mars,TRAPPIST-1e,False
 2794_03,Mars,TRAPPIST-1e,False
@@ -10031,7 +10031,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2864_01,Mars,TRAPPIST-1e,False
 2868_01,Earth,TRAPPIST-1e,True
 2868_02,Earth,TRAPPIST-1e,True
-2868_03,Earth,TRAPPIST-1e,True
+2868_03,Earth,TRAPPIST-1e,
 2868_04,Earth,TRAPPIST-1e,False
 2874_01,Earth,TRAPPIST-1e,False
 2879_01,Earth,TRAPPIST-1e,False
@@ -10058,7 +10058,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2931_01,Earth,TRAPPIST-1e,True
 2931_02,Earth,TRAPPIST-1e,False
 2932_01,Europa,,True
-2933_01,Earth,TRAPPIST-1e,True
+2933_01,Earth,TRAPPIST-1e,
 2937_01,Earth,TRAPPIST-1e,False
 2939_01,Earth,TRAPPIST-1e,False
 2946_01,Earth,TRAPPIST-1e,False
@@ -10068,7 +10068,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 2947_01,Earth,TRAPPIST-1e,True
 2951_01,Earth,PSO J318.5-22,False
 2952_01,Earth,55 Cancri e,False
-2955_01,Earth,TRAPPIST-1e,True
+2955_01,Earth,TRAPPIST-1e,
 2957_01,Earth,TRAPPIST-1e,True
 2963_01,Earth,TRAPPIST-1e,False
 2967_01,Earth,TRAPPIST-1e,False
@@ -10113,7 +10113,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3037_01,Europa,55 Cancri e,True
 3037_02,Europa,TRAPPIST-1e,True
 3041_01,Earth,,False
-3043_01,Mars,TRAPPIST-1e,True
+3043_01,Mars,TRAPPIST-1e,
 3046_01,,TRAPPIST-1e,False
 3049_01,Earth,TRAPPIST-1e,False
 3051_01,Earth,TRAPPIST-1e,False
@@ -10251,7 +10251,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3351_02,Earth,55 Cancri e,False
 3354_01,Europa,TRAPPIST-1e,False
 3355_01,Earth,PSO J318.5-22,True
-3356_01,Europa,,True
+3356_01,Europa,,
 3358_01,Earth,TRAPPIST-1e,False
 3362_01,Europa,TRAPPIST-1e,False
 3362_02,Europa,TRAPPIST-1e,False
@@ -10259,7 +10259,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3367_01,Earth,TRAPPIST-1e,False
 3368_01,Mars,TRAPPIST-1e,True
 3368_02,Mars,55 Cancri e,True
-3368_03,Mars,TRAPPIST-1e,True
+3368_03,Mars,TRAPPIST-1e,
 3368_04,Mars,TRAPPIST-1e,True
 3368_05,,TRAPPIST-1e,True
 3368_06,Mars,,False
@@ -10387,7 +10387,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3623_01,Earth,TRAPPIST-1e,False
 3627_01,Europa,TRAPPIST-1e,False
 3632_01,Earth,TRAPPIST-1e,False
-3633_01,Mars,TRAPPIST-1e,True
+3633_01,Mars,TRAPPIST-1e,
 3635_01,Earth,55 Cancri e,True
 3635_02,Earth,TRAPPIST-1e,False
 3637_01,Mars,TRAPPIST-1e,False
@@ -10486,7 +10486,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3827_01,Earth,55 Cancri e,False
 3828_01,Europa,TRAPPIST-1e,False
 3828_02,Europa,TRAPPIST-1e,False
-3828_03,Europa,55 Cancri e,True
+3828_03,Europa,55 Cancri e,
 3829_01,Earth,55 Cancri e,False
 3829_02,Earth,TRAPPIST-1e,False
 3833_01,Mars,55 Cancri e,True
@@ -10501,7 +10501,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 3858_01,Europa,TRAPPIST-1e,True
 3858_02,Europa,TRAPPIST-1e,True
 3858_03,Europa,TRAPPIST-1e,False
-3858_04,Europa,TRAPPIST-1e,True
+3858_04,Europa,TRAPPIST-1e,
 3859_01,Mars,TRAPPIST-1e,True
 3860_01,Mars,55 Cancri e,False
 3861_01,Mars,TRAPPIST-1e,False
@@ -10588,7 +10588,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4054_03,Europa,TRAPPIST-1e,False
 4056_01,Earth,TRAPPIST-1e,False
 4057_01,Mars,TRAPPIST-1e,False
-4059_01,Europa,55 Cancri e,True
+4059_01,Europa,55 Cancri e,
 4059_02,Europa,TRAPPIST-1e,False
 4062_01,,55 Cancri e,False
 4067_01,Earth,TRAPPIST-1e,False
@@ -10684,7 +10684,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4285_01,Earth,TRAPPIST-1e,False
 4286_01,Earth,55 Cancri e,False
 4286_02,Earth,PSO J318.5-22,False
-4286_03,Earth,TRAPPIST-1e,True
+4286_03,Earth,TRAPPIST-1e,
 4287_01,Earth,PSO J318.5-22,False
 4288_01,Earth,55 Cancri e,True
 4288_02,Earth,TRAPPIST-1e,False
@@ -10718,7 +10718,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4374_01,Earth,TRAPPIST-1e,False
 4375_01,Europa,PSO J318.5-22,True
 4377_01,Earth,TRAPPIST-1e,True
-4377_02,Earth,PSO J318.5-22,True
+4377_02,Earth,PSO J318.5-22,
 4377_03,Earth,TRAPPIST-1e,True
 4378_01,Europa,TRAPPIST-1e,False
 4378_02,Europa,55 Cancri e,False
@@ -10740,14 +10740,14 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4418_01,Earth,TRAPPIST-1e,False
 4419_01,Earth,TRAPPIST-1e,False
 4419_02,Earth,TRAPPIST-1e,False
-4420_01,,TRAPPIST-1e,True
+4420_01,,TRAPPIST-1e,
 4420_02,Earth,PSO J318.5-22,False
 4421_01,Earth,TRAPPIST-1e,False
 4423_01,Europa,55 Cancri e,False
 4425_01,Europa,55 Cancri e,True
 4425_02,Europa,55 Cancri e,False
 4434_01,Mars,TRAPPIST-1e,False
-4435_01,Europa,55 Cancri e,True
+4435_01,Europa,55 Cancri e,
 4435_02,Europa,TRAPPIST-1e,False
 4439_01,Mars,TRAPPIST-1e,True
 4439_02,Mars,TRAPPIST-1e,False
@@ -10848,7 +10848,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4675_01,Europa,55 Cancri e,False
 4675_02,Europa,TRAPPIST-1e,False
 4681_01,Europa,55 Cancri e,False
-4682_01,Earth,TRAPPIST-1e,True
+4682_01,Earth,TRAPPIST-1e,
 4683_01,Mars,TRAPPIST-1e,True
 4683_02,Mars,TRAPPIST-1e,False
 4685_01,Mars,TRAPPIST-1e,True
@@ -10896,12 +10896,12 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4761_03,Earth,TRAPPIST-1e,False
 4765_01,,TRAPPIST-1e,True
 4766_01,Mars,TRAPPIST-1e,True
-4767_01,Earth,TRAPPIST-1e,True
+4767_01,Earth,TRAPPIST-1e,
 4768_01,Europa,TRAPPIST-1e,False
 4768_02,Europa,TRAPPIST-1e,True
 4771_01,Earth,TRAPPIST-1e,False
 4776_01,Mars,55 Cancri e,False
-4776_02,Mars,TRAPPIST-1e,True
+4776_02,Mars,TRAPPIST-1e,
 4776_03,Mars,TRAPPIST-1e,True
 4776_04,Mars,,False
 4779_01,Earth,TRAPPIST-1e,False
@@ -10972,7 +10972,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4957_01,Europa,55 Cancri e,True
 4959_01,Mars,TRAPPIST-1e,True
 4960_01,Earth,TRAPPIST-1e,False
-4962_01,Mars,TRAPPIST-1e,True
+4962_01,Mars,TRAPPIST-1e,
 4966_01,Europa,TRAPPIST-1e,False
 4966_02,Europa,TRAPPIST-1e,True
 4967_01,Earth,55 Cancri e,False
@@ -10983,7 +10983,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 4976_01,Earth,PSO J318.5-22,False
 4982_01,Earth,TRAPPIST-1e,True
 4984_01,Earth,TRAPPIST-1e,False
-4984_02,,PSO J318.5-22,True
+4984_02,,PSO J318.5-22,
 4985_01,Mars,,True
 4986_01,Earth,55 Cancri e,False
 4988_01,Europa,TRAPPIST-1e,True
@@ -11017,7 +11017,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5046_01,Earth,TRAPPIST-1e,True
 5047_01,Earth,PSO J318.5-22,True
 5049_01,Earth,TRAPPIST-1e,False
-5053_01,Europa,TRAPPIST-1e,True
+5053_01,Europa,TRAPPIST-1e,
 5054_01,Mars,TRAPPIST-1e,False
 5055_01,Earth,TRAPPIST-1e,True
 5056_01,Mars,TRAPPIST-1e,False
@@ -11051,7 +11051,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5117_01,Mars,TRAPPIST-1e,False
 5118_01,Europa,55 Cancri e,False
 5119_01,Mars,TRAPPIST-1e,False
-5121_01,Earth,TRAPPIST-1e,True
+5121_01,Earth,TRAPPIST-1e,
 5123_01,Earth,PSO J318.5-22,False
 5131_01,Europa,55 Cancri e,False
 5131_02,Europa,55 Cancri e,True
@@ -11127,7 +11127,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5318_02,Earth,TRAPPIST-1e,False
 5319_01,Mars,TRAPPIST-1e,False
 5321_01,Earth,PSO J318.5-22,False
-5324_01,Earth,TRAPPIST-1e,True
+5324_01,Earth,TRAPPIST-1e,
 5328_01,Europa,TRAPPIST-1e,True
 5329_01,Earth,TRAPPIST-1e,False
 5329_02,Earth,PSO J318.5-22,True
@@ -11142,7 +11142,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5335_03,Europa,55 Cancri e,False
 5335_04,Europa,55 Cancri e,False
 5336_01,Earth,TRAPPIST-1e,False
-5338_01,Earth,TRAPPIST-1e,True
+5338_01,Earth,TRAPPIST-1e,
 5339_01,Europa,55 Cancri e,False
 5339_02,Europa,TRAPPIST-1e,False
 5339_03,Europa,55 Cancri e,True
@@ -11178,7 +11178,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5400_01,Earth,TRAPPIST-1e,True
 5403_01,,TRAPPIST-1e,False
 5405_01,Earth,TRAPPIST-1e,False
-5407_01,Mars,TRAPPIST-1e,True
+5407_01,Mars,TRAPPIST-1e,
 5409_01,Earth,TRAPPIST-1e,False
 5417_01,Mars,TRAPPIST-1e,False
 5419_01,Earth,PSO J318.5-22,False
@@ -11210,15 +11210,15 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5502_01,Earth,TRAPPIST-1e,False
 5503_01,Earth,TRAPPIST-1e,False
 5505_01,Earth,,False
-5505_02,Earth,TRAPPIST-1e,True
+5505_02,Earth,TRAPPIST-1e,
 5505_03,Earth,55 Cancri e,False
 5513_01,Earth,PSO J318.5-22,True
 5513_02,Earth,TRAPPIST-1e,True
 5513_03,Earth,TRAPPIST-1e,False
-5513_04,Earth,55 Cancri e,True
+5513_04,Earth,55 Cancri e,
 5516_01,Earth,55 Cancri e,False
 5518_01,Europa,55 Cancri e,False
-5519_01,Europa,TRAPPIST-1e,True
+5519_01,Europa,TRAPPIST-1e,
 5525_01,Mars,,False
 5532_01,Earth,55 Cancri e,False
 5533_01,Earth,TRAPPIST-1e,False
@@ -11280,7 +11280,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5660_01,Mars,TRAPPIST-1e,False
 5664_01,Earth,TRAPPIST-1e,False
 5664_02,Earth,TRAPPIST-1e,False
-5664_03,Earth,TRAPPIST-1e,True
+5664_03,Earth,TRAPPIST-1e,
 5664_04,Earth,55 Cancri e,False
 5665_01,Earth,TRAPPIST-1e,False
 5666_01,Mars,TRAPPIST-1e,False
@@ -11297,7 +11297,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5690_01,Mars,TRAPPIST-1e,False
 5691_01,Mars,TRAPPIST-1e,True
 5694_01,Europa,TRAPPIST-1e,True
-5697_01,Earth,TRAPPIST-1e,True
+5697_01,Earth,TRAPPIST-1e,
 5699_01,Earth,TRAPPIST-1e,False
 5703_01,Earth,TRAPPIST-1e,False
 5708_01,Earth,TRAPPIST-1e,True
@@ -11342,7 +11342,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 5815_01,Europa,TRAPPIST-1e,False
 5815_02,Europa,TRAPPIST-1e,False
 5815_03,Europa,55 Cancri e,False
-5815_04,Europa,55 Cancri e,True
+5815_04,Europa,55 Cancri e,
 5830_01,Earth,TRAPPIST-1e,False
 5832_01,Earth,,False
 5833_01,Mars,TRAPPIST-1e,False
@@ -11434,7 +11434,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6046_01,Earth,PSO J318.5-22,False
 6050_01,Mars,TRAPPIST-1e,True
 6051_01,Mars,TRAPPIST-1e,False
-6051_02,Mars,TRAPPIST-1e,True
+6051_02,Mars,TRAPPIST-1e,
 6053_01,Earth,PSO J318.5-22,False
 6056_01,Mars,TRAPPIST-1e,False
 6057_01,Earth,TRAPPIST-1e,False
@@ -11444,7 +11444,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6074_01,Mars,TRAPPIST-1e,False
 6074_02,Mars,TRAPPIST-1e,True
 6074_03,Mars,TRAPPIST-1e,False
-6078_01,Earth,TRAPPIST-1e,True
+6078_01,Earth,TRAPPIST-1e,
 6079_01,Earth,TRAPPIST-1e,True
 6081_01,,TRAPPIST-1e,True
 6081_02,Mars,TRAPPIST-1e,False
@@ -11551,7 +11551,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6288_01,Europa,TRAPPIST-1e,True
 6288_02,Europa,TRAPPIST-1e,False
 6288_03,Europa,55 Cancri e,True
-6288_04,Europa,TRAPPIST-1e,True
+6288_04,Europa,TRAPPIST-1e,
 6291_01,Earth,TRAPPIST-1e,False
 6294_01,Earth,TRAPPIST-1e,True
 6295_01,Europa,55 Cancri e,True
@@ -11570,9 +11570,9 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6332_02,Earth,TRAPPIST-1e,False
 6332_03,Earth,TRAPPIST-1e,True
 6332_04,Earth,55 Cancri e,False
-6332_05,Earth,TRAPPIST-1e,True
+6332_05,Earth,TRAPPIST-1e,
 6332_06,Earth,PSO J318.5-22,True
-6332_07,Earth,TRAPPIST-1e,True
+6332_07,Earth,TRAPPIST-1e,
 6332_08,Earth,TRAPPIST-1e,False
 6333_01,Earth,TRAPPIST-1e,False
 6336_01,Earth,TRAPPIST-1e,False
@@ -11611,7 +11611,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6410_01,Europa,TRAPPIST-1e,False
 6410_02,Europa,TRAPPIST-1e,False
 6417_01,Mars,TRAPPIST-1e,True
-6420_01,Earth,,True
+6420_01,Earth,,
 6423_01,Europa,55 Cancri e,False
 6425_01,Mars,TRAPPIST-1e,False
 6425_02,Mars,,True
@@ -11624,14 +11624,14 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6441_01,Earth,55 Cancri e,False
 6445_01,Earth,TRAPPIST-1e,False
 6460_01,Europa,TRAPPIST-1e,False
-6465_01,Earth,PSO J318.5-22,True
+6465_01,Earth,PSO J318.5-22,
 6466_01,Earth,TRAPPIST-1e,False
 6467_01,Europa,55 Cancri e,False
 6469_01,Earth,PSO J318.5-22,True
 6474_01,Earth,TRAPPIST-1e,False
 6476_01,Earth,TRAPPIST-1e,False
 6479_01,Europa,55 Cancri e,True
-6479_02,Europa,TRAPPIST-1e,True
+6479_02,Europa,TRAPPIST-1e,
 6483_01,Mars,TRAPPIST-1e,True
 6484_01,Earth,TRAPPIST-1e,False
 6486_01,Europa,,True
@@ -11698,10 +11698,10 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6587_01,Earth,55 Cancri e,True
 6589_01,Europa,TRAPPIST-1e,True
 6596_01,Mars,TRAPPIST-1e,False
-6596_02,Mars,TRAPPIST-1e,True
+6596_02,Mars,TRAPPIST-1e,
 6597_01,Earth,TRAPPIST-1e,False
 6600_01,Mars,TRAPPIST-1e,False
-6600_02,Mars,TRAPPIST-1e,True
+6600_02,Mars,TRAPPIST-1e,
 6605_01,Earth,55 Cancri e,True
 6605_02,Earth,55 Cancri e,False
 6607_01,Mars,TRAPPIST-1e,False
@@ -11728,7 +11728,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6653_01,Earth,TRAPPIST-1e,False
 6657_01,Earth,,True
 6658_01,Mars,TRAPPIST-1e,False
-6658_02,Mars,TRAPPIST-1e,True
+6658_02,Mars,TRAPPIST-1e,
 6658_03,Mars,TRAPPIST-1e,False
 6661_01,Mars,TRAPPIST-1e,False
 6666_01,Earth,PSO J318.5-22,False
@@ -11792,7 +11792,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6791_01,Earth,55 Cancri e,False
 6793_01,Europa,TRAPPIST-1e,False
 6793_02,Europa,TRAPPIST-1e,True
-6795_01,Mars,TRAPPIST-1e,True
+6795_01,Mars,TRAPPIST-1e,
 6797_01,Earth,TRAPPIST-1e,False
 6803_01,Earth,TRAPPIST-1e,False
 6804_01,Earth,TRAPPIST-1e,False
@@ -11825,7 +11825,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6855_01,Earth,TRAPPIST-1e,False
 6856_01,Mars,55 Cancri e,False
 6860_01,Earth,TRAPPIST-1e,False
-6867_01,Earth,TRAPPIST-1e,True
+6867_01,Earth,TRAPPIST-1e,
 6870_01,Mars,TRAPPIST-1e,False
 6872_01,Earth,TRAPPIST-1e,True
 6874_01,Earth,PSO J318.5-22,True
@@ -11842,7 +11842,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6886_01,Earth,PSO J318.5-22,True
 6888_01,Europa,TRAPPIST-1e,False
 6888_02,Europa,TRAPPIST-1e,True
-6888_03,Europa,TRAPPIST-1e,True
+6888_03,Europa,TRAPPIST-1e,
 6888_04,Europa,PSO J318.5-22,False
 6890_01,Earth,TRAPPIST-1e,False
 6897_01,Earth,TRAPPIST-1e,False
@@ -11857,7 +11857,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6923_01,Mars,TRAPPIST-1e,True
 6927_01,Earth,TRAPPIST-1e,False
 6933_01,Europa,55 Cancri e,True
-6933_02,Europa,TRAPPIST-1e,True
+6933_02,Europa,TRAPPIST-1e,
 6935_01,Earth,TRAPPIST-1e,False
 6936_01,Mars,TRAPPIST-1e,False
 6936_02,Mars,TRAPPIST-1e,False
@@ -11869,7 +11869,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6952_01,Europa,TRAPPIST-1e,True
 6953_01,Earth,TRAPPIST-1e,False
 6955_01,Earth,TRAPPIST-1e,False
-6956_01,Earth,55 Cancri e,True
+6956_01,Earth,55 Cancri e,
 6958_01,Earth,TRAPPIST-1e,False
 6959_01,Earth,TRAPPIST-1e,False
 6959_02,Earth,55 Cancri e,True
@@ -11891,7 +11891,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 6986_07,Earth,TRAPPIST-1e,False
 6986_08,Earth,TRAPPIST-1e,True
 6989_01,Earth,TRAPPIST-1e,True
-6993_01,Earth,55 Cancri e,True
+6993_01,Earth,55 Cancri e,
 7000_01,Mars,TRAPPIST-1e,True
 7003_01,Earth,TRAPPIST-1e,False
 7009_01,Mars,55 Cancri e,False
@@ -11945,7 +11945,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7130_02,Earth,PSO J318.5-22,True
 7130_03,Earth,TRAPPIST-1e,False
 7130_04,Earth,PSO J318.5-22,False
-7130_05,Earth,55 Cancri e,True
+7130_05,Earth,55 Cancri e,
 7130_06,Earth,55 Cancri e,False
 7130_07,Earth,TRAPPIST-1e,False
 7131_01,Earth,TRAPPIST-1e,False
@@ -11991,7 +11991,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7223_01,Mars,TRAPPIST-1e,True
 7228_01,Earth,TRAPPIST-1e,True
 7231_01,Earth,TRAPPIST-1e,False
-7237_01,Earth,55 Cancri e,True
+7237_01,Earth,55 Cancri e,
 7239_01,Earth,TRAPPIST-1e,True
 7241_01,Europa,TRAPPIST-1e,True
 7241_02,Europa,TRAPPIST-1e,False
@@ -12021,7 +12021,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7282_01,Earth,PSO J318.5-22,True
 7286_01,Mars,TRAPPIST-1e,False
 7287_01,Europa,TRAPPIST-1e,True
-7288_01,Earth,TRAPPIST-1e,True
+7288_01,Earth,TRAPPIST-1e,
 7291_01,Earth,TRAPPIST-1e,True
 7293_01,Earth,TRAPPIST-1e,False
 7294_01,Earth,TRAPPIST-1e,False
@@ -12081,7 +12081,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7400_01,Earth,PSO J318.5-22,False
 7404_01,Earth,TRAPPIST-1e,True
 7407_01,Mars,TRAPPIST-1e,False
-7409_01,Earth,TRAPPIST-1e,True
+7409_01,Earth,TRAPPIST-1e,
 7409_02,Earth,TRAPPIST-1e,False
 7412_01,Europa,55 Cancri e,True
 7413_01,Earth,TRAPPIST-1e,True
@@ -12090,7 +12090,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7415_01,Earth,TRAPPIST-1e,False
 7417_01,Earth,TRAPPIST-1e,False
 7417_02,Earth,TRAPPIST-1e,False
-7420_01,Earth,TRAPPIST-1e,True
+7420_01,Earth,TRAPPIST-1e,
 7421_01,Earth,PSO J318.5-22,True
 7421_02,Earth,PSO J318.5-22,False
 7423_01,Mars,TRAPPIST-1e,False
@@ -12140,7 +12140,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7528_04,Earth,55 Cancri e,True
 7530_01,Europa,55 Cancri e,True
 7530_02,Europa,55 Cancri e,False
-7530_03,Europa,TRAPPIST-1e,True
+7530_03,Europa,TRAPPIST-1e,
 7530_04,Europa,55 Cancri e,False
 7532_01,Earth,55 Cancri e,True
 7537_01,Earth,55 Cancri e,True
@@ -12188,7 +12188,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7597_02,Earth,PSO J318.5-22,True
 7597_03,Earth,TRAPPIST-1e,False
 7597_04,Earth,TRAPPIST-1e,True
-7597_05,Earth,PSO J318.5-22,True
+7597_05,Earth,PSO J318.5-22,
 7597_06,Earth,TRAPPIST-1e,False
 7597_07,Earth,TRAPPIST-1e,False
 7600_01,Europa,55 Cancri e,True
@@ -12203,7 +12203,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7612_01,Earth,TRAPPIST-1e,False
 7612_02,Earth,TRAPPIST-1e,True
 7613_01,Europa,TRAPPIST-1e,True
-7615_01,Earth,TRAPPIST-1e,True
+7615_01,Earth,TRAPPIST-1e,
 7617_01,Mars,TRAPPIST-1e,False
 7619_01,Earth,TRAPPIST-1e,True
 7629_01,Earth,TRAPPIST-1e,False
@@ -12229,7 +12229,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7664_01,Earth,PSO J318.5-22,False
 7668_01,Earth,TRAPPIST-1e,False
 7672_01,Europa,TRAPPIST-1e,False
-7673_01,Earth,PSO J318.5-22,True
+7673_01,Earth,PSO J318.5-22,
 7674_01,Earth,TRAPPIST-1e,False
 7675_01,Mars,TRAPPIST-1e,False
 7681_01,Mars,TRAPPIST-1e,True
@@ -12294,7 +12294,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7844_01,Europa,TRAPPIST-1e,False
 7846_01,Europa,TRAPPIST-1e,False
 7846_02,Europa,55 Cancri e,True
-7854_01,Earth,55 Cancri e,True
+7854_01,Earth,55 Cancri e,
 7855_01,Earth,TRAPPIST-1e,False
 7857_01,Earth,PSO J318.5-22,True
 7860_01,Earth,TRAPPIST-1e,False
@@ -12317,7 +12317,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 7900_01,Earth,55 Cancri e,False
 7906_01,Earth,TRAPPIST-1e,False
 7909_01,Earth,TRAPPIST-1e,False
-7909_02,Earth,TRAPPIST-1e,True
+7909_02,Earth,TRAPPIST-1e,
 7911_01,Earth,TRAPPIST-1e,True
 7912_01,Earth,TRAPPIST-1e,False
 7915_01,Mars,TRAPPIST-1e,True
@@ -12490,7 +12490,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8305_02,Europa,55 Cancri e,True
 8305_03,Europa,TRAPPIST-1e,True
 8308_01,Earth,PSO J318.5-22,False
-8309_01,Europa,55 Cancri e,True
+8309_01,Europa,55 Cancri e,
 8311_01,Earth,TRAPPIST-1e,False
 8312_01,Mars,,True
 8325_01,Earth,TRAPPIST-1e,True
@@ -12550,7 +12550,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8426_02,Earth,TRAPPIST-1e,False
 8428_01,Earth,TRAPPIST-1e,False
 8434_01,Europa,TRAPPIST-1e,True
-8435_01,,TRAPPIST-1e,True
+8435_01,,TRAPPIST-1e,
 8436_01,Earth,TRAPPIST-1e,False
 8439_01,Earth,TRAPPIST-1e,True
 8440_01,Mars,55 Cancri e,False
@@ -12608,7 +12608,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8534_02,Earth,PSO J318.5-22,True
 8534_03,Earth,TRAPPIST-1e,True
 8534_04,Earth,TRAPPIST-1e,False
-8538_01,Mars,TRAPPIST-1e,True
+8538_01,Mars,TRAPPIST-1e,
 8543_01,Earth,TRAPPIST-1e,False
 8543_02,Earth,PSO J318.5-22,True
 8543_03,Earth,PSO J318.5-22,False
@@ -12647,7 +12647,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8591_01,Earth,TRAPPIST-1e,False
 8593_01,Earth,TRAPPIST-1e,False
 8600_01,Earth,TRAPPIST-1e,True
-8601_01,Earth,TRAPPIST-1e,True
+8601_01,Earth,TRAPPIST-1e,
 8608_01,Earth,PSO J318.5-22,True
 8621_01,,TRAPPIST-1e,False
 8622_01,Earth,TRAPPIST-1e,False
@@ -12687,7 +12687,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8698_01,Earth,55 Cancri e,False
 8699_01,Earth,PSO J318.5-22,True
 8702_01,Europa,55 Cancri e,False
-8705_01,Mars,55 Cancri e,True
+8705_01,Mars,55 Cancri e,
 8706_01,Earth,55 Cancri e,False
 8707_01,Earth,TRAPPIST-1e,False
 8711_01,Mars,TRAPPIST-1e,False
@@ -12800,7 +12800,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 8925_03,Europa,55 Cancri e,True
 8925_04,Europa,TRAPPIST-1e,False
 8925_05,Europa,TRAPPIST-1e,True
-8925_06,Europa,TRAPPIST-1e,True
+8925_06,Europa,TRAPPIST-1e,
 8927_01,Europa,TRAPPIST-1e,False
 8929_01,Earth,TRAPPIST-1e,False
 8931_01,Mars,PSO J318.5-22,False
@@ -12901,7 +12901,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 9123_01,Mars,TRAPPIST-1e,True
 9133_01,Earth,TRAPPIST-1e,True
 9135_01,Earth,PSO J318.5-22,False
-9138_01,Europa,TRAPPIST-1e,True
+9138_01,Europa,TRAPPIST-1e,
 9143_01,Earth,TRAPPIST-1e,False
 9143_02,Earth,55 Cancri e,False
 9143_03,Earth,TRAPPIST-1e,False
@@ -12922,7 +12922,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 9171_01,Europa,TRAPPIST-1e,False
 9177_01,Europa,55 Cancri e,True
 9177_02,Europa,55 Cancri e,True
-9182_01,Earth,TRAPPIST-1e,True
+9182_01,Earth,TRAPPIST-1e,
 9187_01,Mars,TRAPPIST-1e,False
 9187_02,Mars,TRAPPIST-1e,False
 9191_01,Earth,TRAPPIST-1e,True
@@ -12931,7 +12931,7 @@ PassengerId,HomePlanet,Destination,CryoSleep
 9204_01,Earth,TRAPPIST-1e,False
 9206_01,Europa,TRAPPIST-1e,False
 9206_02,Europa,TRAPPIST-1e,False
-9206_03,Europa,55 Cancri e,True
+9206_03,Europa,55 Cancri e,
 9207_01,Europa,TRAPPIST-1e,False
 9209_01,Earth,55 Cancri e,False
 9210_01,Earth,TRAPPIST-1e,False
